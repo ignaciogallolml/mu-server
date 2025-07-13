@@ -45,6 +45,7 @@
 		<Item Class="0" Slot="255" ItemCat="13" ItemIndex="137" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0"/>
 		<Item Class="0" Slot="255" ItemCat="13" ItemIndex="138" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0"/>
 		<Item Class="0" Slot="255" ItemCat="13" ItemIndex="139" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0"/>
+		<Item Class="0" Slot="255" ItemCat="13" ItemIndex="139" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0"/>
 		
 		<!-- DW ITEMS-->
 		<Item Class="0" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0"/>
