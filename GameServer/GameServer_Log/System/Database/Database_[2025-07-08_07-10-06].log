@@ -1,0 +1,5 @@
+2025-07-08_07:10:07 INFO Opening DatabasePool 'DatabaseName'. Asynchronous connections: 1, synchronous connections: 2.
+2025-07-08_07:10:07 ERROR Could not connect to MySQL database at 127.0.0.1: Authentication plugin 'auth_gssapi_client' cannot be loaded: No se puede encontrar el módulo especificado.
+
+
+2025-07-08_07:10:07 ERROR DatabasePool DatabaseName NOT opened. There were errors opening the MySQL connections. Check your SQLDriverLogFile for specific errors. Read wiki at http://collab.kpsn.org/display/tc/TrinityCore+Home

@@ -1,0 +1,18 @@
+2025-07-13_10:03:30 INFO ========================================================
+2025-07-13_10:03:30 INFO ========================================================
+2025-07-13_10:03:30 INFO >>>>>>>>>>>>>>>>>>>>> LOGIN SERVER <<<<<<<<<<<<<<<<<<<<<<
+2025-07-13_10:03:30 INFO ========================================================
+2025-07-13_10:03:30 INFO ========================================================
+2025-07-13_10:03:30 INFO Process priority class set to HIGH
+2025-07-13_10:03:30 INFO Starting DB...
+2025-07-13_10:03:30 DEBUG Network Thread Starting
+2025-07-13_10:03:30 INFO  
+2025-07-13_10:03:30 INFO LoginServer Ready
+2025-07-13_10:03:31 INFO Loading World Server...
+2025-07-13_10:03:31 INFO >> Loaded 64 world server definitions
+2025-07-13_10:03:31 INFO  
+2025-07-13_11:26:51 INFO Loading World Server...
+2025-07-13_11:26:51 INFO >> Loaded 64 world server definitions
+2025-07-13_11:26:51 INFO  
+2025-07-13_11:30:01 DEBUG Network Thread exits
+2025-07-13_11:30:01 INFO Closing LoginServer

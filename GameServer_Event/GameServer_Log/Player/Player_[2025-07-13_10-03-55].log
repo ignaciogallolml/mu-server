@@ -1,0 +1,16 @@
+2025-07-13_10:08:40 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - ] --- Send Join Request [test][BKTest]
+2025-07-13_10:08:40 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] --- Joined Successfully [test][BKTest]
+2025-07-13_10:08:40 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character BKTest - 0 selected ( Step One ).
+2025-07-13_10:08:40 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character selected ( Step Two ).
+2025-07-13_10:08:40 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] -- Location:[79 - 203/57]
+2025-07-13_10:11:02 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] --- Server: 0 [51 - 52/225]
+2025-07-13_10:11:02 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] --- Server: 0 [51 - 52/225]
+2025-07-13_10:36:00 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - ] --- Send Join Request [test][BKTest]
+2025-07-13_10:36:00 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] --- Joined Successfully [test][BKTest]
+2025-07-13_10:36:00 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character BKTest - 0 selected ( Step One ).
+2025-07-13_10:36:00 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character selected ( Step Two ).
+2025-07-13_10:36:00 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] -- Location:[79 - 206/57]
+2025-07-13_10:39:05 INFO Closing interface (lumen_the_barmaid - 0) -- [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]
+2025-07-13_10:43:00 INFO Teleport From [World:79 - 193/88 - Instance:-1] To [World:13 - 13/9 - Instance:-1] -- [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]
+2025-07-13_10:47:48 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] --- Server: 0 [3 - 172/108]
+2025-07-13_10:47:48 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] --- Server: 0 [3 - 172/108]

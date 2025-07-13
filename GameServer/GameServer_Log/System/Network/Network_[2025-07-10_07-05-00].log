@@ -1,0 +1,12 @@
+2025-07-10_07:05:00 INFO Closing socket: 192.168.0.187
+2025-07-10_07:05:13 INFO Attempt to add new socket: 192.168.0.187
+2025-07-10_07:05:13 INFO Added new socket: 192.168.0.187 at [30000]
+2025-07-10_07:20:56 INFO Closing socket: 192.168.0.187
+2025-07-10_07:21:05 INFO Attempt to add new socket: 192.168.0.187
+2025-07-10_07:21:05 INFO Added new socket: 192.168.0.187 at [30000]
+2025-07-10_07:22:02 INFO Closing socket: 192.168.0.187
+2025-07-10_07:22:06 INFO Attempt to add new socket: 192.168.0.187
+2025-07-10_07:22:06 INFO Added new socket: 192.168.0.187 at [30000]
+2025-07-10_17:16:51 INFO Closing socket: 192.168.0.187
+2025-07-10_21:14:48 INFO Attempt to add new socket: 192.168.0.187
+2025-07-10_21:14:48 INFO Added new socket: 192.168.0.187 at [30000]

@@ -1,0 +1,41 @@
+2025-07-13_10:05:26 INFO [ LOGIN REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - ] on [test]
+2025-07-13_10:05:26 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ]
+2025-07-13_10:05:31 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character GCTest - 0 selected ( Step One ).
+2025-07-13_10:05:31 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character selected ( Step Two ).
+2025-07-13_10:05:31 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 197-GCTest] -- Location:[0 - 123/133]
+2025-07-13_10:06:53 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 197-GCTest] - Select Character
+2025-07-13_10:07:05 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 197-GCTest] Character BKTest - 1 selected ( Step One ).
+2025-07-13_10:07:05 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 197-GCTest] Character selected ( Step Two ).
+2025-07-13_10:07:05 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] -- Location:[0 - 139/125]
+2025-07-13_10:07:55 INFO Closing interface (hanzo_the_blacksmith - 0) -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]
+2025-07-13_10:08:40 INFO [ SERVER MOVE REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] --- Server: 18 [79 - 203/57]
+2025-07-13_10:08:40 INFO [ SERVER MOVE SUCCESS ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] --- Server: 18 [79 - 203/57]
+2025-07-13_10:11:02 INFO [ SERVER MOVE AUTH ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - ] --- Send Join Request [test][BKTest]
+2025-07-13_10:11:02 INFO [ SERVER MOVE AUTH RESULT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] --- Joined Successfully [test][BKTest]
+2025-07-13_10:11:02 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character BKTest - 0 selected ( Step One ).
+2025-07-13_10:11:02 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character selected ( Step Two ).
+2025-07-13_10:11:02 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] -- Location:[51 - 52/225]
+2025-07-13_10:11:41 INFO Teleport From [World:51 - 37/239 - Instance:-1] To [World:3 - 173/116 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]
+2025-07-13_10:12:48 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] - Select Server
+2025-07-13_10:13:13 INFO [ LOGIN REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - ] on [test]
+2025-07-13_10:13:13 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ]
+2025-07-13_10:13:15 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character BKTest - 0 selected ( Step One ).
+2025-07-13_10:13:15 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character selected ( Step Two ).
+2025-07-13_10:13:15 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] -- Location:[0 - 175/121]
+2025-07-13_10:14:09 INFO Teleport From [World:0 - 163/128 - Instance:-1] To [World:51 - 52/224 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]
+2025-07-13_10:14:25 INFO Closing interface (ruud_shop - 0) -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]
+2025-07-13_10:14:49 INFO Teleport From [World:51 - 33/238 - Instance:-1] To [World:56 - 65/47 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]
+2025-07-13_10:16:16 INFO Teleport From [World:56 - 41/115 - Instance:-1] To [World:56 - 66/47 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]
+2025-07-13_10:33:18 INFO Teleport From [World:56 - 56/107 - Instance:-1] To [World:0 - 140/133 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]
+2025-07-13_10:36:00 INFO [ SERVER MOVE REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] --- Server: 18 [79 - 206/57]
+2025-07-13_10:36:00 INFO [ SERVER MOVE SUCCESS ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] --- Server: 18 [79 - 206/57]
+2025-07-13_10:47:48 INFO [ SERVER MOVE AUTH ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - ] --- Send Join Request [test][BKTest]
+2025-07-13_10:47:48 INFO [ SERVER MOVE AUTH RESULT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] --- Joined Successfully [test][BKTest]
+2025-07-13_10:47:48 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character BKTest - 0 selected ( Step One ).
+2025-07-13_10:47:48 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character selected ( Step Two ).
+2025-07-13_10:47:48 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] -- Location:[3 - 172/108]
+2025-07-13_10:49:49 INFO Teleport From [World:3 - 172/97 - Instance:-1] To [World:51 - 52/224 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]
+2025-07-13_10:52:00 INFO Closing interface (interface_moss_merchant - 0) -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]
+2025-07-13_10:52:04 INFO Teleport From [World:51 - 27/227 - Instance:-1] To [World:3 - 176/112 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]
+2025-07-13_10:53:43 INFO Teleport From [World:3 - 175/110 - Instance:-1] To [World:51 - 53/224 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]
+2025-07-13_11:02:16 INFO Closing interface (interface_moss_merchant - 0) -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]

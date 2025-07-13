@@ -1,0 +1,6 @@
+2025-07-08_07:16:24 INFO [ LOGIN REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - ] on [test]
+2025-07-08_07:16:24 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ]
+2025-07-08_07:16:30 INFO [ CHARACTER CREATE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Created character [BKTest] class 16
+2025-07-08_07:16:31 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character BKTest - 0 selected ( Step One ).
+2025-07-08_07:16:31 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character selected ( Step Two ).
+2025-07-08_07:16:31 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] -- Location:[0 - 133/129]

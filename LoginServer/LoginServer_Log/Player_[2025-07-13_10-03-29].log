@@ -1,0 +1,14 @@
+2025-07-13_10:05:26 INFO Adding Player [158][test]
+2025-07-13_10:05:26 INFO LoginQueue::Process -- [Acc: test][IP: 192.168.0.187][MAC: 04:42:1A:48:70:20][SERIAL: 4174623308] Result: 1
+2025-07-13_10:08:40 INFO AuthSocket::AccountServerMove - [158][test] Move To [18][79][203][57]
+2025-07-13_10:08:40 INFO AuthSocket::AccountServerAuth - [158][test] Success Move To [18][79][203][57]
+2025-07-13_10:11:02 INFO AuthSocket::AccountServerMove - [158][test] Move To [0][51][52][225]
+2025-07-13_10:11:02 INFO AuthSocket::AccountServerAuth - [158][test] Success Move To [0][51][52][225]
+2025-07-13_10:12:54 INFO Removing Player [158][test] - Disconnected.
+2025-07-13_10:13:13 INFO Adding Player [158][test]
+2025-07-13_10:13:13 INFO LoginQueue::Process -- [Acc: test][IP: 192.168.0.187][MAC: 04:42:1A:48:70:20][SERIAL: 4174623308] Result: 1
+2025-07-13_10:36:00 INFO AuthSocket::AccountServerMove - [158][test] Move To [18][79][206][57]
+2025-07-13_10:36:00 INFO AuthSocket::AccountServerAuth - [158][test] Success Move To [18][79][206][57]
+2025-07-13_10:47:48 INFO AuthSocket::AccountServerMove - [158][test] Move To [0][3][172][108]
+2025-07-13_10:47:48 INFO AuthSocket::AccountServerAuth - [158][test] Success Move To [0][3][172][108]
+2025-07-13_11:04:56 INFO Removing Player [158][test] - Disconnected.

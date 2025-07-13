@@ -1,0 +1,9 @@
+2025-07-10_07:22:16 INFO [ COMMAND ADMIN ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest] Used Command: .admincmd
+2025-07-10_21:17:35 INFO [ COMMAND ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 197-GCTest] Used Command: /addene 285
+2025-07-10_21:17:39 INFO [ COMMAND ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 197-GCTest] Used Command: /addene 7
+2025-07-10_21:17:46 INFO [ COMMAND ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 197-GCTest] Used Command: /addagi 113
+2025-07-10_21:17:51 INFO [ COMMAND ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 197-GCTest] Used Command: /addstr 183
+2025-07-10_21:17:57 INFO [ COMMAND ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 197-GCTest] Used Command: /addstr 10
+2025-07-10_23:23:53 INFO [ COMMAND ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 197-GCTest] Used Command: /addene 1000
+2025-07-10_23:23:57 INFO [ COMMAND ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 197-GCTest] Used Command: /addstr 100
+2025-07-10_23:24:01 INFO [ COMMAND ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 197-GCTest] Used Command: /addagi 315

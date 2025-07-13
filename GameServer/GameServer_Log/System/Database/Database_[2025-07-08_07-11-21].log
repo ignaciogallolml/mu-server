@@ -1,0 +1,56 @@
+2025-07-08_07:11:22 INFO Opening DatabasePool 'muonline'. Asynchronous connections: 1, synchronous connections: 2.
+2025-07-08_07:11:22 INFO MySQL client library: 8.0.33
+2025-07-08_07:11:22 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-08_07:11:22 INFO Connected to MySQL database at 127.0.0.1
+2025-07-08_07:11:22 INFO MySQL client library: 8.0.33
+2025-07-08_07:11:22 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-08_07:11:22 INFO Connected to MySQL database at 127.0.0.1
+2025-07-08_07:11:22 INFO MySQL client library: 8.0.33
+2025-07-08_07:11:22 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-08_07:11:22 INFO Connected to MySQL database at 127.0.0.1
+2025-07-08_07:11:22 INFO DatabasePool 'muonline' opened successfully. 3 total connections running.
+2025-07-08_07:11:22 INFO Opening DatabasePool 'log'. Asynchronous connections: 1, synchronous connections: 2.
+2025-07-08_07:11:22 INFO MySQL client library: 8.0.33
+2025-07-08_07:11:22 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-08_07:11:22 INFO Connected to MySQL database at 127.0.0.1
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 0, sql: "INSERT  INTO log_item_drop (server, account_id, account, char_id, char_name, player_data, item_data, `comment`) VALUES (?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_item_drop' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 1, sql: "INSERT  INTO log_item_loot (server, account_id, account, char_id, char_name, player_data, item_data, `comment`) VALUES (?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_item_loot' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 2, sql: "INSERT  INTO log_item_sell (server, account_id, account, char_id, char_name, player_data, item_data, `comment`) VALUES (?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_item_sell' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 3, sql: "INSERT  INTO log_item_buy (server, account_id, account, char_id, char_name, player_data, item_data, `comment`) VALUES (?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_item_buy' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 4, sql: "INSERT  INTO item_bag_serial (serial, server, name, level, account_id, account, char_id, char_name, world, world_x, world_y, instance) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.item_bag_serial' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 5, sql: "INSERT  INTO log_level_up (char_id, char_name, level_normal, level_master, level_majestic, world, world_x, world_y, event_ground) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_level_up' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 6, sql: "INSERT  INTO log_jewel_drop (char_id, account_id, jewel_type, jewel_index, jewel_name, world, log_jewel_drop.x, log_jewel_drop.y) VALUES (?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_jewel_drop' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 7, sql: "INSERT  INTO log_cash_shop (server_id, account_id, account, char_id, char_name, player_data, dest_char, package_id, product_id, option_id, product_name, price_type, price, gift) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_cash_shop' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 8, sql: "INSERT  INTO log_mix (server, account_id, account, char_id, char_name, player_data, mix_id, mix_name, rate, cost, result, item_data_before, item_data_after) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_mix' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 9, sql: "INSERT  INTO log_boss_kill (boss_index, boss_name, boss_id, character_id, character_name, damage, damage_reflect, damage_debuff, damage_elemental, log_boss_kill.server, first_hit) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_boss_kill' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 10, sql: "INSERT  INTO log_jewel_mix (char_id, char_name, server, mix_type, mix_id, mix_level) VALUES (?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_jewel_mix' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 11, sql: "INSERT  INTO log_item_create (account_id, account, char_id, char_name, interface_id, world, world_x, world_y, server, serial, serial_shop, item, level, item_data) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_item_create' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 12, sql: "INSERT  INTO log_personal_store (server, account_id_01, account_01, char_id_01, char_name_01, player_data_01, account_id_02, account_02, char_id_02, char_name_02, player_data_02, offstore, item_data) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_personal_store' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 13, sql: "INSERT  INTO log_trade (server, account_id_01, account_01, char_id_01, char_name_01, player_data_01, account_id_02, account_02, char_id_02, char_name_02, player_data_02, money, item_data) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_trade' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 14, sql: "INSERT  INTO antihack (server, account_id, account, char_id, char_name, player_data, player_location, type, description) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.antihack' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 15, sql: "INSERT  INTO log_errtel_pentagram (server, account_id, account, char_id, char_name, player_data, type, blessing_spirit, result, pentagram_data, errtel_data) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_errtel_pentagram' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 16, sql: "INSERT  INTO mix_recovery (`server`, account_id, `account`, char_id, char_name, player_data, `type`, item_data) VALUES (?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.mix_recovery' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 17, sql: "INSERT  INTO reward_dungeon (`server`, account_id, `account`, char_id, char_name, player_data, `type`, item_data) VALUES (?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.reward_dungeon' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 18, sql: "INSERT  INTO reward_labyrinth_of_dimensions (`server`, char_id, char_name, `category`, `rank`, item_data) VALUES (?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.reward_labyrinth_of_dimensions' doesn't exist
+2025-07-08_07:11:22 ERROR In mysql_stmt_prepare() id: 19, sql: "INSERT  INTO log_pvp (`char_id_1`, char_name_1, char_class_1, `char_stat_1`, `char_set_1`, `char_id_2`, char_name_2, char_class_2, `char_stat_2`, `char_set_2`, skill, hp_damage, sd_damage) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+2025-07-08_07:11:22 ERROR Table 'log.log_pvp' doesn't exist
+2025-07-08_07:11:22 ERROR DatabasePool log NOT opened. There were errors opening the MySQL connections. Check your SQLDriverLogFile for specific errors. Read wiki at http://collab.kpsn.org/display/tc/TrinityCore+Home

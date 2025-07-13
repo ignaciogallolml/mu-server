@@ -1,0 +1,36 @@
+2025-07-13_10:03:21 INFO ========================================================
+2025-07-13_10:03:21 INFO ========================================================
+2025-07-13_10:03:21 INFO >>>>>>>>>>>>>>>>>>>>> CONNECT SERVER <<<<<<<<<<<<<<<<<<<<<<
+2025-07-13_10:03:21 INFO ========================================================
+2025-07-13_10:03:21 INFO ========================================================
+2025-07-13_10:03:21 INFO Process priority class set to HIGH
+2025-07-13_10:03:21 INFO Starting DB...
+2025-07-13_10:03:21 INFO Reading Server List...
+2025-07-13_10:03:21 INFO Added Server 0 [Regular]    Port: 55901   IP: 192.168.0.187   Display: 1	AccountAllowed: 0	Disabled: 1
+2025-07-13_10:03:21 INFO Added Server 1 [Sub]    Port: 55902   IP: 192.168.0.187   Display: 1	AccountAllowed: 0	Disabled: 1
+2025-07-13_10:03:21 INFO Added Server 17 [ArkaWar]    Port: 55917   IP: 192.168.0.187   Display: 0	AccountAllowed: 0	Disabled: 1
+2025-07-13_10:03:21 INFO Added Server 18 [Event]    Port: 55918   IP: 192.168.0.187   Display: 0	AccountAllowed: 0	Disabled: 1
+2025-07-13_10:03:21 INFO Added Server 19 [Siege]    Port: 55919   IP: 192.168.0.187   Display: 0	AccountAllowed: 0	Disabled: 1
+2025-07-13_10:03:21 INFO Added Server 100 [BattleCore]    Port: 55601   IP: 192.168.0.187   Display: 1	AccountAllowed: 0	Disabled: 1
+2025-07-13_10:03:21 INFO >> Loaded 6 servers
+2025-07-13_10:03:21 INFO  
+2025-07-13_10:03:21 DEBUG Network Thread Starting
+2025-07-13_10:03:21 DEBUG Network Thread Starting
+2025-07-13_10:03:21 INFO  
+2025-07-13_10:03:21 INFO CSServer Ready
+2025-07-13_10:03:52 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2025-07-13_10:03:58 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2025-07-13_10:05:04 INFO Reading Server List...
+2025-07-13_10:05:04 INFO Added Server 0 [Regular]    Port: 55901   IP: 192.168.0.187   Display: 1	AccountAllowed: 0	Disabled: 0
+2025-07-13_10:05:04 INFO Added Server 1 [Sub]    Port: 55902   IP: 192.168.0.187   Display: 1	AccountAllowed: 0	Disabled: 1
+2025-07-13_10:05:04 INFO Added Server 17 [ArkaWar]    Port: 55917   IP: 192.168.0.187   Display: 0	AccountAllowed: 0	Disabled: 1
+2025-07-13_10:05:04 INFO Added Server 18 [Event]    Port: 55918   IP: 192.168.0.187   Display: 0	AccountAllowed: 0	Disabled: 0
+2025-07-13_10:05:04 INFO Added Server 19 [Siege]    Port: 55919   IP: 192.168.0.187   Display: 0	AccountAllowed: 0	Disabled: 1
+2025-07-13_10:05:04 INFO Added Server 100 [BattleCore]    Port: 55601   IP: 192.168.0.187   Display: 1	AccountAllowed: 0	Disabled: 1
+2025-07-13_10:05:04 INFO >> Loaded 6 servers
+2025-07-13_10:05:04 INFO  
+2025-07-13_11:29:55 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2025-07-13_11:29:58 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2025-07-13_11:30:03 DEBUG Network Thread exits
+2025-07-13_11:30:03 DEBUG Network Thread exits
+2025-07-13_11:30:03 INFO Closing CSServer

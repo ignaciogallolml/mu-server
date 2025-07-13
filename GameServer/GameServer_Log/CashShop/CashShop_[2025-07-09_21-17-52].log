@@ -1,0 +1,7 @@
+2025-07-09_21:22:10 INFO LoadDBCashShopCoin() - [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 195-Soul] Success: [0, 0]
+2025-07-09_21:32:13 INFO LoadDBCashShopCoin() - [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 195-Soul] Success: [0, 0]
+2025-07-09_21:32:34 INFO LoadDBCashShopCoin() - [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 196-ELFTest] Success: [0, 0]
+2025-07-09_21:35:36 INFO LoadDBCashShopCoin() - [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest] Success: [0, 0]
+2025-07-09_21:36:09 INFO LoadDBCashShopCoin() - [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest] Success: [0, 0]
+2025-07-09_21:44:07 INFO LoadDBCashShopCoin() - [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 196-ELFTest] Success: [0, 0]
+2025-07-09_21:45:25 INFO LoadDBCashShopCoin() - [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 196-ELFTest] Success: [0, 0]

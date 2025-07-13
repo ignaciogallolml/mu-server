@@ -1,0 +1,51 @@
+2025-07-09_21:21:52 INFO [ LOGIN REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - ] on [test2]
+2025-07-09_21:21:55 INFO [ LOGIN REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - ] on [test2]
+2025-07-09_21:21:55 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - ]
+2025-07-09_21:22:09 INFO [ CHARACTER CREATE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - ] Created character [Soul] class 0
+2025-07-09_21:22:10 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - ] Character Soul - 0 selected ( Step One ).
+2025-07-09_21:22:10 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - ] Character selected ( Step Two ).
+2025-07-09_21:22:10 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 195-Soul] -- Location:[0 - 133/116]
+2025-07-09_21:31:56 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 195-Soul] - Select Character
+2025-07-09_21:32:12 INFO [ CHARACTER CREATE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 195-Soul] Created character [ELFTest] class 32
+2025-07-09_21:32:13 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 195-Soul] Character Soul - 0 selected ( Step One ).
+2025-07-09_21:32:13 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 195-Soul] Character selected ( Step Two ).
+2025-07-09_21:32:13 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 195-Soul] -- Location:[0 - 137/121]
+2025-07-09_21:32:22 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 195-Soul] - Select Character
+2025-07-09_21:32:34 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 195-Soul] Character ELFTest - 1 selected ( Step One ).
+2025-07-09_21:32:34 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 195-Soul] Character selected ( Step Two ).
+2025-07-09_21:32:34 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 196-ELFTest] -- Location:[3 - 176/113]
+2025-07-09_21:35:19 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 196-ELFTest] - Select Server
+2025-07-09_21:35:33 INFO [ LOGIN REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - ] on [test]
+2025-07-09_21:35:33 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - ]
+2025-07-09_21:35:36 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - ] Character BKTest - 0 selected ( Step One ).
+2025-07-09_21:35:36 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - ] Character selected ( Step Two ).
+2025-07-09_21:35:36 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest] -- Location:[0 - 133/131]
+2025-07-09_21:35:50 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest] - Select Server
+2025-07-09_21:36:07 INFO [ LOGIN REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - ] on [test]
+2025-07-09_21:36:07 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - ]
+2025-07-09_21:36:09 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - ] Character BKTest - 0 selected ( Step One ).
+2025-07-09_21:36:09 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - ] Character selected ( Step Two ).
+2025-07-09_21:36:09 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest] -- Location:[0 - 133/131]
+2025-07-09_21:36:23 INFO Teleport From [World:0 - 133/129 - Instance:-1] To [World:2 - 216/47 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest]
+2025-07-09_21:36:32 INFO Teleport From [World:2 - 215/44 - Instance:-1] To [World:3 - 171/110 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest]
+2025-07-09_21:36:35 INFO Teleport From [World:3 - 171/110 - Instance:-1] To [World:0 - 135/128 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest]
+2025-07-09_21:36:42 INFO Closing interface (interface_quest_support_giver - 0) -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest]
+2025-07-09_21:36:53 INFO Teleport From [World:0 - 140/134 - Instance:-1] To [World:51 - 52/226 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest]
+2025-07-09_21:37:00 INFO Teleport From [World:51 - 50/224 - Instance:-1] To [World:2 - 215/48 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest]
+2025-07-09_21:44:05 INFO [ LOGIN REQUEST ] [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - ] on [test2]
+2025-07-09_21:44:05 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - ]
+2025-07-09_21:44:07 INFO [ CHARACTER SELECT ] [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - ] Character ELFTest - 0 selected ( Step One ).
+2025-07-09_21:44:07 INFO [ CHARACTER SELECT ] [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - ] Character selected ( Step Two ).
+2025-07-09_21:44:07 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 196-ELFTest] -- Location:[3 - 174/116]
+2025-07-09_21:44:09 INFO Teleport From [World:2 - 212/43 - Instance:-1] To [World:3 - 171/116 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest]
+2025-07-09_21:44:27 INFO Closing interface (interface_quest_support_giver - 0) -- [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 196-ELFTest]
+2025-07-09_21:45:04 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 196-ELFTest] - Select Server
+2025-07-09_21:45:22 INFO [ LOGIN REQUEST ] [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - ] on [test2]
+2025-07-09_21:45:22 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - ]
+2025-07-09_21:45:25 INFO [ CHARACTER SELECT ] [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - ] Character ELFTest - 0 selected ( Step One ).
+2025-07-09_21:45:25 INFO [ CHARACTER SELECT ] [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - ] Character selected ( Step Two ).
+2025-07-09_21:45:25 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 196-ELFTest] -- Location:[0 - 172/113]
+2025-07-09_21:45:29 INFO Teleport From [World:0 - 172/113 - Instance:-1] To [World:0 - 135/122 - Instance:-1] -- [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 196-ELFTest]
+2025-07-09_21:45:40 INFO Closing interface (interface_quest_support_giver - 0) -- [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 196-ELFTest]
+2025-07-09_21:45:42 INFO Teleport From [World:0 - 142/125 - Instance:-1] To [World:3 - 171/116 - Instance:-1] -- [SRV 0 -- 30001 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 159-test2 - Character: 196-ELFTest]
+2025-07-09_23:12:31 INFO Teleport From [World:3 - 172/114 - Instance:-1] To [World:0 - 135/117 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 9E:0D:F3:14:A3:5F - Account: 158-test - Character: 194-BKTest]

@@ -1,0 +1,8 @@
+2025-07-13_10:07:09 INFO [ COMMAND ADMIN ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Used Command: .admincmd
+2025-07-13_10:11:08 INFO [ COMMAND ADMIN ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Used Command: .admincmd
+2025-07-13_10:11:56 INFO [ COMMAND ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Used Command: /clearinventory
+2025-07-13_10:12:03 INFO [ COMMAND ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Used Command: /clearinventory
+2025-07-13_10:13:34 INFO [ COMMAND ADMIN ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Used Command: .admincmd
+2025-07-13_10:33:57 INFO [ COMMAND ADMIN ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Used Command: .item add 1 14 111
+2025-07-13_10:49:36 INFO [ COMMAND ADMIN ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Used Command: .admincmd
+2025-07-13_10:49:46 INFO [ COMMAND ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Used Command: /clearinventory

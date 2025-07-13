@@ -1,0 +1,133 @@
+2025-07-08_07:15:06 INFO Opening DatabasePool 'muonline'. Asynchronous connections: 1, synchronous connections: 2.
+2025-07-08_07:15:06 INFO MySQL client library: 8.0.33
+2025-07-08_07:15:06 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-08_07:15:06 INFO Connected to MySQL database at 127.0.0.1
+2025-07-08_07:15:06 INFO MySQL client library: 8.0.33
+2025-07-08_07:15:06 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-08_07:15:06 INFO Connected to MySQL database at 127.0.0.1
+2025-07-08_07:15:06 INFO MySQL client library: 8.0.33
+2025-07-08_07:15:06 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-08_07:15:06 INFO Connected to MySQL database at 127.0.0.1
+2025-07-08_07:15:06 INFO DatabasePool 'muonline' opened successfully. 3 total connections running.
+2025-07-08_07:15:06 INFO Opening DatabasePool 'log'. Asynchronous connections: 1, synchronous connections: 2.
+2025-07-08_07:15:06 INFO MySQL client library: 8.0.33
+2025-07-08_07:15:06 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-08_07:15:06 INFO Connected to MySQL database at 127.0.0.1
+2025-07-08_07:15:06 INFO MySQL client library: 8.0.33
+2025-07-08_07:15:06 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-08_07:15:06 INFO Connected to MySQL database at 127.0.0.1
+2025-07-08_07:15:06 INFO MySQL client library: 8.0.33
+2025-07-08_07:15:06 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-08_07:15:06 INFO Connected to MySQL database at 127.0.0.1
+2025-07-08_07:15:06 INFO DatabasePool 'log' opened successfully. 3 total connections running.
+2025-07-08_07:15:06 INFO Opening DatabasePool 'muonline'. Asynchronous connections: 1, synchronous connections: 2.
+2025-07-08_07:15:06 INFO MySQL client library: 8.0.33
+2025-07-08_07:15:06 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-08_07:15:06 INFO Connected to MySQL database at 127.0.0.1
+2025-07-08_07:15:06 INFO MySQL client library: 8.0.33
+2025-07-08_07:15:06 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-08_07:15:06 INFO Connected to MySQL database at 127.0.0.1
+2025-07-08_07:15:06 INFO MySQL client library: 8.0.33
+2025-07-08_07:15:06 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-08_07:15:06 INFO Connected to MySQL database at 127.0.0.1
+2025-07-08_07:15:06 INFO DatabasePool 'muonline' opened successfully. 3 total connections running.
+2025-07-08_07:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_07:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_07:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_07:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_08:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_08:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_08:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_08:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_08:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_08:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_09:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_09:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_09:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_09:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_09:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_09:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_10:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_10:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_10:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_10:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_10:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_10:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_11:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_11:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_11:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_11:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_11:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_11:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_12:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_12:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_12:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_12:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_12:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_12:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_13:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_13:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_13:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_13:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_13:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_13:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_14:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_14:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_14:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_14:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_14:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_14:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_15:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_15:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_15:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_15:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_15:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_15:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_16:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_16:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_16:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_16:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_16:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_16:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_17:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_17:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_17:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_17:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_17:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_17:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_18:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_18:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_18:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_18:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_18:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_18:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_19:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_19:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_19:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_19:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_19:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_19:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_20:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_20:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_20:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_20:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_20:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_20:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_21:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_21:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_21:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_21:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_21:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_21:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_22:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_22:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_22:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_22:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_22:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_22:55:11 INFO Main::KeepDatabaseAlive
+2025-07-08_23:05:11 INFO Main::KeepDatabaseAlive
+2025-07-08_23:15:11 INFO Main::KeepDatabaseAlive
+2025-07-08_23:25:11 INFO Main::KeepDatabaseAlive
+2025-07-08_23:35:11 INFO Main::KeepDatabaseAlive
+2025-07-08_23:45:11 INFO Main::KeepDatabaseAlive
+2025-07-08_23:55:11 INFO Main::KeepDatabaseAlive

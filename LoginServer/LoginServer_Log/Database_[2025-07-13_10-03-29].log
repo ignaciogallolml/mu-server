@@ -1,0 +1,31 @@
+2025-07-13_10:03:30 INFO Opening DatabasePool 'muonline'. Asynchronous connections: 1, synchronous connections: 2.
+2025-07-13_10:03:30 INFO MySQL client library: 8.0.33
+2025-07-13_10:03:30 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-13_10:03:30 INFO Connected to MySQL database at 127.0.0.1
+2025-07-13_10:03:30 INFO MySQL client library: 8.0.33
+2025-07-13_10:03:30 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-13_10:03:30 INFO Connected to MySQL database at 127.0.0.1
+2025-07-13_10:03:30 INFO MySQL client library: 8.0.33
+2025-07-13_10:03:30 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-13_10:03:30 INFO Connected to MySQL database at 127.0.0.1
+2025-07-13_10:03:30 INFO DatabasePool 'muonline' opened successfully. 3 total connections running.
+2025-07-13_10:08:30 INFO Main::KeepDatabaseAlive
+2025-07-13_10:13:30 INFO Main::KeepDatabaseAlive
+2025-07-13_10:18:30 INFO Main::KeepDatabaseAlive
+2025-07-13_10:23:30 INFO Main::KeepDatabaseAlive
+2025-07-13_10:28:30 INFO Main::KeepDatabaseAlive
+2025-07-13_10:33:30 INFO Main::KeepDatabaseAlive
+2025-07-13_10:38:30 INFO Main::KeepDatabaseAlive
+2025-07-13_10:43:30 INFO Main::KeepDatabaseAlive
+2025-07-13_10:48:30 INFO Main::KeepDatabaseAlive
+2025-07-13_10:53:30 INFO Main::KeepDatabaseAlive
+2025-07-13_10:58:30 INFO Main::KeepDatabaseAlive
+2025-07-13_11:03:30 INFO Main::KeepDatabaseAlive
+2025-07-13_11:08:30 INFO Main::KeepDatabaseAlive
+2025-07-13_11:13:30 INFO Main::KeepDatabaseAlive
+2025-07-13_11:18:30 INFO Main::KeepDatabaseAlive
+2025-07-13_11:23:30 INFO Main::KeepDatabaseAlive
+2025-07-13_11:28:30 INFO Main::KeepDatabaseAlive
+2025-07-13_11:30:01 INFO Closing down DatabasePool 'muonline'.
+2025-07-13_11:30:01 INFO Asynchronous connections on DatabasePool 'muonline' terminated. Proceeding with synchronous connections.
+2025-07-13_11:30:01 INFO All connections on DatabasePool 'muonline' closed.

@@ -1,0 +1,15 @@
+2025-07-09_21:21:52 INFO LoginQueue::Process -- [Acc: test2][IP: 192.168.0.187][MAC: 9E:0D:F3:14:A3:5F][SERIAL: 4174623308] Result: 2
+2025-07-09_21:21:55 INFO Adding Player [159][test2]
+2025-07-09_21:21:55 INFO LoginQueue::Process -- [Acc: test2][IP: 192.168.0.187][MAC: 9E:0D:F3:14:A3:5F][SERIAL: 4174623308] Result: 1
+2025-07-09_21:35:26 INFO Removing Player [159][test2] - Disconnected.
+2025-07-09_21:35:33 INFO Adding Player [158][test]
+2025-07-09_21:35:33 INFO LoginQueue::Process -- [Acc: test][IP: 192.168.0.187][MAC: 9E:0D:F3:14:A3:5F][SERIAL: 4174623308] Result: 1
+2025-07-09_21:35:56 INFO Removing Player [158][test] - Disconnected.
+2025-07-09_21:36:07 INFO Adding Player [158][test]
+2025-07-09_21:36:07 INFO LoginQueue::Process -- [Acc: test][IP: 192.168.0.187][MAC: 9E:0D:F3:14:A3:5F][SERIAL: 4174623308] Result: 1
+2025-07-09_21:44:05 INFO Adding Player [159][test2]
+2025-07-09_21:44:05 INFO LoginQueue::Process -- [Acc: test2][IP: 192.168.0.187][MAC: 9E:0D:F3:14:A3:5F][SERIAL: 4174623308] Result: 1
+2025-07-09_21:45:10 INFO Removing Player [159][test2] - Disconnected.
+2025-07-09_21:45:22 INFO Adding Player [159][test2]
+2025-07-09_21:45:22 INFO LoginQueue::Process -- [Acc: test2][IP: 192.168.0.187][MAC: 9E:0D:F3:14:A3:5F][SERIAL: 4174623308] Result: 1
+2025-07-09_23:12:44 INFO Removing Player [158][test] - Disconnected.

@@ -1,0 +1,8 @@
+2025-07-13_10:05:31 INFO LoadDBCashShopCoin() - [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 197-GCTest] Success: [0, 0]
+2025-07-13_10:06:15 INFO CashShopOpenRequest() - [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 197-GCTest] Successfully opened Cash Shop
+2025-07-13_10:06:15 INFO CashShopItemListRequest() - [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 197-GCTest] Success. Type: 83 - Page: 1
+2025-07-13_10:06:16 INFO CashShopOpenRequest() - [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 197-GCTest] Successfully closed Cash Shop
+2025-07-13_10:07:05 INFO LoadDBCashShopCoin() - [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Success: [0, 0]
+2025-07-13_10:11:02 INFO LoadDBCashShopCoin() - [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Success: [0, 0]
+2025-07-13_10:13:15 INFO LoadDBCashShopCoin() - [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Success: [0, 0]
+2025-07-13_10:47:48 INFO LoadDBCashShopCoin() - [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Success: [0, 0]
