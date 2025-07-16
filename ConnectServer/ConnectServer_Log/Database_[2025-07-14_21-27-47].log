@@ -1,0 +1,41 @@
+2025-07-14_21:27:48 INFO Opening DatabasePool 'muonline'. Asynchronous connections: 1, synchronous connections: 2.
+2025-07-14_21:27:48 INFO MySQL client library: 8.0.33
+2025-07-14_21:27:48 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_21:27:48 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_21:27:48 INFO MySQL client library: 8.0.33
+2025-07-14_21:27:48 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_21:27:48 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_21:27:48 INFO MySQL client library: 8.0.33
+2025-07-14_21:27:48 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_21:27:48 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_21:27:48 INFO DatabasePool 'muonline' opened successfully. 3 total connections running.
+2025-07-14_21:32:48 INFO Main::KeepDatabaseAlive
+2025-07-14_21:37:48 INFO Main::KeepDatabaseAlive
+2025-07-14_21:42:48 INFO Main::KeepDatabaseAlive
+2025-07-14_21:47:48 INFO Main::KeepDatabaseAlive
+2025-07-14_21:52:48 INFO Main::KeepDatabaseAlive
+2025-07-14_21:57:48 INFO Main::KeepDatabaseAlive
+2025-07-14_22:02:48 INFO Main::KeepDatabaseAlive
+2025-07-14_22:07:48 INFO Main::KeepDatabaseAlive
+2025-07-14_22:12:48 INFO Main::KeepDatabaseAlive
+2025-07-14_22:17:48 INFO Main::KeepDatabaseAlive
+2025-07-14_22:22:48 INFO Main::KeepDatabaseAlive
+2025-07-14_22:27:48 INFO Main::KeepDatabaseAlive
+2025-07-14_22:32:48 INFO Main::KeepDatabaseAlive
+2025-07-14_22:37:48 INFO Main::KeepDatabaseAlive
+2025-07-14_22:42:48 INFO Main::KeepDatabaseAlive
+2025-07-14_22:47:48 INFO Main::KeepDatabaseAlive
+2025-07-14_22:52:48 INFO Main::KeepDatabaseAlive
+2025-07-14_22:57:48 INFO Main::KeepDatabaseAlive
+2025-07-14_23:02:48 INFO Main::KeepDatabaseAlive
+2025-07-14_23:07:48 INFO Main::KeepDatabaseAlive
+2025-07-14_23:12:48 INFO Main::KeepDatabaseAlive
+2025-07-14_23:17:48 INFO Main::KeepDatabaseAlive
+2025-07-14_23:22:48 INFO Main::KeepDatabaseAlive
+2025-07-14_23:27:48 INFO Main::KeepDatabaseAlive
+2025-07-14_23:32:48 INFO Main::KeepDatabaseAlive
+2025-07-14_23:37:48 INFO Main::KeepDatabaseAlive
+2025-07-14_23:42:48 INFO Main::KeepDatabaseAlive
+2025-07-14_23:47:48 INFO Main::KeepDatabaseAlive
+2025-07-14_23:52:48 INFO Main::KeepDatabaseAlive
+2025-07-14_23:57:48 INFO Main::KeepDatabaseAlive

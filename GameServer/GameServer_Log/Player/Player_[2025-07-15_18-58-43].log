@@ -1,0 +1,6 @@
+2025-07-15_18:59:43 INFO [ LOGIN REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - ] on [test]
+2025-07-15_18:59:43 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ]
+2025-07-15_18:59:45 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character BKTest - 0 selected ( Step One ).
+2025-07-15_18:59:45 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character selected ( Step Two ).
+2025-07-15_18:59:45 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] -- Location:[3 - 175/99]
+2025-07-15_21:12:08 INFO Teleport From [World:3 - 180/102 - Instance:-1] To [World:3 - 176/113 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]

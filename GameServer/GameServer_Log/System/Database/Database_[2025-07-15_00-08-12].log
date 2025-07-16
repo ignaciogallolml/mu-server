@@ -1,0 +1,53 @@
+2025-07-15_00:08:12 INFO Main::KeepDatabaseAlive
+2025-07-15_00:18:12 INFO Main::KeepDatabaseAlive
+2025-07-15_00:28:12 INFO Main::KeepDatabaseAlive
+2025-07-15_00:38:12 INFO Main::KeepDatabaseAlive
+2025-07-15_00:48:12 INFO Main::KeepDatabaseAlive
+2025-07-15_00:58:12 INFO Main::KeepDatabaseAlive
+2025-07-15_01:08:12 INFO Main::KeepDatabaseAlive
+2025-07-15_01:18:12 INFO Main::KeepDatabaseAlive
+2025-07-15_01:28:12 INFO Main::KeepDatabaseAlive
+2025-07-15_01:38:12 INFO Main::KeepDatabaseAlive
+2025-07-15_01:48:12 INFO Main::KeepDatabaseAlive
+2025-07-15_01:58:12 INFO Main::KeepDatabaseAlive
+2025-07-15_02:08:12 INFO Main::KeepDatabaseAlive
+2025-07-15_02:18:12 INFO Main::KeepDatabaseAlive
+2025-07-15_02:28:12 INFO Main::KeepDatabaseAlive
+2025-07-15_02:38:12 INFO Main::KeepDatabaseAlive
+2025-07-15_02:48:12 INFO Main::KeepDatabaseAlive
+2025-07-15_02:58:12 INFO Main::KeepDatabaseAlive
+2025-07-15_03:08:12 INFO Main::KeepDatabaseAlive
+2025-07-15_03:18:12 INFO Main::KeepDatabaseAlive
+2025-07-15_03:28:12 INFO Main::KeepDatabaseAlive
+2025-07-15_03:38:12 INFO Main::KeepDatabaseAlive
+2025-07-15_03:48:12 INFO Main::KeepDatabaseAlive
+2025-07-15_03:58:12 INFO Main::KeepDatabaseAlive
+2025-07-15_04:08:12 INFO Main::KeepDatabaseAlive
+2025-07-15_04:18:12 INFO Main::KeepDatabaseAlive
+2025-07-15_04:28:12 INFO Main::KeepDatabaseAlive
+2025-07-15_04:38:12 INFO Main::KeepDatabaseAlive
+2025-07-15_04:48:12 INFO Main::KeepDatabaseAlive
+2025-07-15_04:58:12 INFO Main::KeepDatabaseAlive
+2025-07-15_05:08:12 INFO Main::KeepDatabaseAlive
+2025-07-15_05:18:12 INFO Main::KeepDatabaseAlive
+2025-07-15_05:28:12 INFO Main::KeepDatabaseAlive
+2025-07-15_05:38:12 INFO Main::KeepDatabaseAlive
+2025-07-15_05:48:12 INFO Main::KeepDatabaseAlive
+2025-07-15_05:58:12 INFO Main::KeepDatabaseAlive
+2025-07-15_06:08:12 INFO Main::KeepDatabaseAlive
+2025-07-15_06:18:12 INFO Main::KeepDatabaseAlive
+2025-07-15_06:28:12 INFO Main::KeepDatabaseAlive
+2025-07-15_06:38:12 INFO Main::KeepDatabaseAlive
+2025-07-15_06:48:12 INFO Main::KeepDatabaseAlive
+2025-07-15_06:58:12 INFO Main::KeepDatabaseAlive
+2025-07-15_07:08:12 INFO Main::KeepDatabaseAlive
+2025-07-15_07:18:12 INFO Main::KeepDatabaseAlive
+2025-07-15_07:23:50 INFO Closing down DatabasePool 'muonline'.
+2025-07-15_07:23:50 INFO Asynchronous connections on DatabasePool 'muonline' terminated. Proceeding with synchronous connections.
+2025-07-15_07:23:50 INFO All connections on DatabasePool 'muonline' closed.
+2025-07-15_07:23:50 INFO Closing down DatabasePool 'log'.
+2025-07-15_07:23:50 INFO Asynchronous connections on DatabasePool 'log' terminated. Proceeding with synchronous connections.
+2025-07-15_07:23:50 INFO All connections on DatabasePool 'log' closed.
+2025-07-15_07:23:50 INFO Closing down DatabasePool 'muonline'.
+2025-07-15_07:23:50 INFO Asynchronous connections on DatabasePool 'muonline' terminated. Proceeding with synchronous connections.
+2025-07-15_07:23:50 INFO All connections on DatabasePool 'muonline' closed.

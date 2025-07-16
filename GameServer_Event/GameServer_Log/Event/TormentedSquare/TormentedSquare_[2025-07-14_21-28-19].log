@@ -1,0 +1,12 @@
+2025-07-14_21:28:21 INFO TormentedSquareSurvival::SetState_None
+2025-07-14_23:00:00 INFO TormentedSquareGround::SetState_Open
+2025-07-14_23:00:00 INFO TormentedSquareGround::SetState_Open
+2025-07-14_23:00:00 INFO TormentedSquareGround::SetState_Open
+2025-07-14_23:00:00 INFO TormentedSquareGround::SetState_Open
+2025-07-14_23:00:00 INFO TormentedSquare::SetState_Open
+2025-07-14_23:05:00 INFO TormentedSquareGround::SetState_None
+2025-07-14_23:05:00 INFO TormentedSquareGround::SetState_None
+2025-07-14_23:05:00 INFO TormentedSquareGround::SetState_None
+2025-07-14_23:05:00 INFO TormentedSquareGround::SetState_None
+2025-07-14_23:05:00 INFO TormentedSquare::SetState_Playing
+2025-07-14_23:05:00 INFO TormentedSquare::SetState_None

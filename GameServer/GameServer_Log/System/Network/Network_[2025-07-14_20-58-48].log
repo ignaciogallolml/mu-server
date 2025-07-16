@@ -1,0 +1,11 @@
+2025-07-14_20:58:52 DEBUG Network Thread Starting
+2025-07-14_20:59:45 INFO Attempt to add new socket: 192.168.0.187
+2025-07-14_20:59:45 INFO Added new socket: 192.168.0.187 at [30000]
+2025-07-14_21:02:50 INFO Closing socket: 192.168.0.187
+2025-07-14_21:02:51 INFO Attempt to add new socket: 192.168.0.187
+2025-07-14_21:02:51 INFO Added new socket: 192.168.0.187 at [30000]
+2025-07-14_21:03:46 INFO Closing socket: 192.168.0.187
+2025-07-14_21:03:52 INFO Attempt to add new socket: 192.168.0.187
+2025-07-14_21:03:52 INFO Added new socket: 192.168.0.187 at [30000]
+2025-07-14_21:24:51 INFO Closing socket: 192.168.0.187
+2025-07-14_21:24:51 DEBUG Network Thread exits

@@ -1,0 +1,65 @@
+2025-07-15_18:58:48 INFO [ChaosCastleSurvival - 1] Moving Players Out
+2025-07-15_18:58:48 INFO [ChaosCastleSurvival - 1] ChaosCastle::SetState_None
+2025-07-15_18:58:48 INFO [ChaosCastleSurvivalMgr] SetState_None()
+2025-07-15_19:00:00 INFO [ChaosCastle - 1] ChaosCastle::SetState_Open
+2025-07-15_19:00:00 INFO [ChaosCastle - 2] ChaosCastle::SetState_Open
+2025-07-15_19:00:00 INFO [ChaosCastle - 3] ChaosCastle::SetState_Open
+2025-07-15_19:00:00 INFO [ChaosCastle - 4] ChaosCastle::SetState_Open
+2025-07-15_19:00:00 INFO [ChaosCastle - 5] ChaosCastle::SetState_Open
+2025-07-15_19:00:00 INFO [ChaosCastle - 6] ChaosCastle::SetState_Open
+2025-07-15_19:00:00 INFO [ChaosCastle - 7] ChaosCastle::SetState_Open
+2025-07-15_19:00:00 INFO [ChaosCastleMgr] SetState_Open()
+2025-07-15_19:05:00 INFO [ChaosCastle - 1] ChaosCastle::SetState_StandBy
+2025-07-15_19:05:00 INFO [ChaosCastle - 2] ChaosCastle::SetState_StandBy
+2025-07-15_19:05:00 INFO [ChaosCastle - 3] ChaosCastle::SetState_StandBy
+2025-07-15_19:05:00 INFO [ChaosCastle - 4] ChaosCastle::SetState_StandBy
+2025-07-15_19:05:00 INFO [ChaosCastle - 5] ChaosCastle::SetState_StandBy
+2025-07-15_19:05:00 INFO [ChaosCastle - 6] ChaosCastle::SetState_StandBy
+2025-07-15_19:05:00 INFO [ChaosCastle - 7] ChaosCastle::SetState_StandBy
+2025-07-15_19:05:00 INFO [ChaosCastleMgr] SetState_Playing()
+2025-07-15_19:06:00 INFO [ChaosCastle - 1] Moving Players Out
+2025-07-15_19:06:00 INFO [ChaosCastle - 1] ChaosCastle::SetState_None
+2025-07-15_19:06:00 INFO [ChaosCastle - 2] Moving Players Out
+2025-07-15_19:06:00 INFO [ChaosCastle - 2] ChaosCastle::SetState_None
+2025-07-15_19:06:00 INFO [ChaosCastle - 3] Moving Players Out
+2025-07-15_19:06:00 INFO [ChaosCastle - 3] ChaosCastle::SetState_None
+2025-07-15_19:06:00 INFO [ChaosCastle - 4] Moving Players Out
+2025-07-15_19:06:00 INFO [ChaosCastle - 4] ChaosCastle::SetState_None
+2025-07-15_19:06:00 INFO [ChaosCastle - 5] Moving Players Out
+2025-07-15_19:06:00 INFO [ChaosCastle - 5] ChaosCastle::SetState_None
+2025-07-15_19:06:00 INFO [ChaosCastle - 6] Moving Players Out
+2025-07-15_19:06:00 INFO [ChaosCastle - 6] ChaosCastle::SetState_None
+2025-07-15_19:06:00 INFO [ChaosCastle - 7] Moving Players Out
+2025-07-15_19:06:00 INFO [ChaosCastle - 7] ChaosCastle::SetState_None
+2025-07-15_19:06:00 INFO [ChaosCastleMgr] SetState_None()
+2025-07-15_21:00:00 INFO [ChaosCastle - 1] ChaosCastle::SetState_Open
+2025-07-15_21:00:00 INFO [ChaosCastle - 2] ChaosCastle::SetState_Open
+2025-07-15_21:00:00 INFO [ChaosCastle - 3] ChaosCastle::SetState_Open
+2025-07-15_21:00:00 INFO [ChaosCastle - 4] ChaosCastle::SetState_Open
+2025-07-15_21:00:00 INFO [ChaosCastle - 5] ChaosCastle::SetState_Open
+2025-07-15_21:00:00 INFO [ChaosCastle - 6] ChaosCastle::SetState_Open
+2025-07-15_21:00:00 INFO [ChaosCastle - 7] ChaosCastle::SetState_Open
+2025-07-15_21:00:00 INFO [ChaosCastleMgr] SetState_Open()
+2025-07-15_21:05:00 INFO [ChaosCastle - 1] ChaosCastle::SetState_StandBy
+2025-07-15_21:05:00 INFO [ChaosCastle - 2] ChaosCastle::SetState_StandBy
+2025-07-15_21:05:00 INFO [ChaosCastle - 3] ChaosCastle::SetState_StandBy
+2025-07-15_21:05:00 INFO [ChaosCastle - 4] ChaosCastle::SetState_StandBy
+2025-07-15_21:05:00 INFO [ChaosCastle - 5] ChaosCastle::SetState_StandBy
+2025-07-15_21:05:00 INFO [ChaosCastle - 6] ChaosCastle::SetState_StandBy
+2025-07-15_21:05:00 INFO [ChaosCastle - 7] ChaosCastle::SetState_StandBy
+2025-07-15_21:05:00 INFO [ChaosCastleMgr] SetState_Playing()
+2025-07-15_21:06:00 INFO [ChaosCastle - 1] Moving Players Out
+2025-07-15_21:06:00 INFO [ChaosCastle - 1] ChaosCastle::SetState_None
+2025-07-15_21:06:00 INFO [ChaosCastle - 2] Moving Players Out
+2025-07-15_21:06:00 INFO [ChaosCastle - 2] ChaosCastle::SetState_None
+2025-07-15_21:06:00 INFO [ChaosCastle - 3] Moving Players Out
+2025-07-15_21:06:00 INFO [ChaosCastle - 3] ChaosCastle::SetState_None
+2025-07-15_21:06:00 INFO [ChaosCastle - 4] Moving Players Out
+2025-07-15_21:06:00 INFO [ChaosCastle - 4] ChaosCastle::SetState_None
+2025-07-15_21:06:00 INFO [ChaosCastle - 5] Moving Players Out
+2025-07-15_21:06:00 INFO [ChaosCastle - 5] ChaosCastle::SetState_None
+2025-07-15_21:06:00 INFO [ChaosCastle - 6] Moving Players Out
+2025-07-15_21:06:00 INFO [ChaosCastle - 6] ChaosCastle::SetState_None
+2025-07-15_21:06:00 INFO [ChaosCastle - 7] Moving Players Out
+2025-07-15_21:06:00 INFO [ChaosCastle - 7] ChaosCastle::SetState_None
+2025-07-15_21:06:00 INFO [ChaosCastleMgr] SetState_None()

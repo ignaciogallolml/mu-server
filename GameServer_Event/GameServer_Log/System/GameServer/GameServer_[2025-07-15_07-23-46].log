@@ -1,0 +1,5 @@
+2025-07-15_07:23:46 ERROR [ TCP Client AuthServer ] Error on receive: Se ha forzado la interrupción de una conexión existente por el host remoto
+2025-07-15_07:23:46 INFO DISCONNECTED AUTHSERVER
+2025-07-15_07:23:48 INFO DISCONNECTED SERVERLINK
+2025-07-15_07:23:48 INFO DISCONNECTED CONNECTSERVER
+2025-07-15_07:23:48 INFO Closing GameServer

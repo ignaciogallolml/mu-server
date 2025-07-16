@@ -1,0 +1,6 @@
+2025-07-15_06:43:32 INFO Updating Viewport Objets 12609 - Time: 4 ms
+2025-07-15_07:23:46 ERROR [ TCP Client AuthServer ] Error on receive: Se ha forzado la interrupción de una conexión existente por el host remoto
+2025-07-15_07:23:46 INFO DISCONNECTED AUTHSERVER
+2025-07-15_07:23:50 INFO DISCONNECTED SERVERLINK
+2025-07-15_07:23:50 INFO DISCONNECTED CONNECTSERVER
+2025-07-15_07:23:50 INFO Closing GameServer

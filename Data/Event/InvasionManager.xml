@@ -100,7 +100,6 @@
 		<Start Duration="30" Hour="11" Minute="30" DayOfWeek="-1" />
 		<Start Duration="30" Hour="19" Minute="30" DayOfWeek="-1" />
 		<Start Duration="30" Hour="23" Minute="30" DayOfWeek="-1" />
-		<Start Duration="30" Hour="10" Minute="55" DayOfWeek="-1" />
 	</Invasion>
 	
 	<Invasion Index="5" Name="Summer">		

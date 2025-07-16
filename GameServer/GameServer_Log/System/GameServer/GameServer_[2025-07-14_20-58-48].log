@@ -1,0 +1,1272 @@
+2025-07-14_20:58:49 INFO ========================================================
+2025-07-14_20:58:49 INFO ========================================================
+2025-07-14_20:58:49 INFO >>>>>>>>>>>>>>>>>>>>> GAME SERVER <<<<<<<<<<<<<<<<<<<<<<
+2025-07-14_20:58:49 INFO ========================================================
+2025-07-14_20:58:49 INFO ========================================================
+2025-07-14_20:58:49 INFO Process priority class set to HIGH
+2025-07-14_20:58:49 INFO Starting DB...
+2025-07-14_20:58:49 INFO Loading Common Settings...
+2025-07-14_20:58:49 INFO Common Settings loaded in 78 msec...
+2025-07-14_20:58:49 INFO Loading Commands...
+2025-07-14_20:58:49 INFO Loading Commands...
+2025-07-14_20:58:49 INFO Loading System Messages...
+2025-07-14_20:58:49 INFO >> Loaded 808 system messages
+2025-07-14_20:58:49 INFO  
+2025-07-14_20:58:49 INFO Loading Regex Manager...
+2025-07-14_20:58:49 INFO Loading Formula Data...
+2025-07-14_20:58:49 INFO >> Loaded 1067 formula data definitions
+2025-07-14_20:58:49 INFO  
+2025-07-14_20:58:49 INFO Loading Worlds...
+2025-07-14_20:58:50 INFO >> Loaded 124 worlds
+2025-07-14_20:58:50 INFO  
+2025-07-14_20:58:50 INFO Loading World AI Path...
+2025-07-14_20:58:50 INFO >> Loaded 1049 world path definitions
+2025-07-14_20:58:50 INFO  
+2025-07-14_20:58:50 INFO Loading World Buff...
+2025-07-14_20:58:50 INFO >> Loaded 0 world buff definitions
+2025-07-14_20:58:50 INFO  
+2025-07-14_20:58:50 INFO Loading World Area Restriction...
+2025-07-14_20:58:50 INFO >> Loaded 12 world area restriction definitions
+2025-07-14_20:58:50 INFO  
+2025-07-14_20:58:50 INFO Loading World Server...
+2025-07-14_20:58:50 INFO >> Loaded 64 world server definitions
+2025-07-14_20:58:50 INFO  
+2025-07-14_20:58:50 INFO Loading World Attribute...
+2025-07-14_20:58:50 INFO >> Loaded 0 world attribute definitions
+2025-07-14_20:58:50 INFO  
+2025-07-14_20:58:50 INFO Loading World Experience...
+2025-07-14_20:58:50 INFO >> Loaded 0 world experience definitions
+2025-07-14_20:58:50 INFO  
+2025-07-14_20:58:50 INFO Loading World Area Attribute...
+2025-07-14_20:58:50 INFO >> Loaded 31 world area attribute definitions
+2025-07-14_20:58:50 INFO  
+2025-07-14_20:58:50 INFO Loading World Free PK...
+2025-07-14_20:58:50 INFO >> Loaded 2 world free pk definitions
+2025-07-14_20:58:50 INFO  
+2025-07-14_20:58:50 INFO Loading Objects...
+2025-07-14_20:58:50 INFO >> Loaded 30100 Game Objects in 212 ms
+2025-07-14_20:58:50 INFO  
+2025-07-14_20:58:50 INFO Loading Item Excelent Options...
+2025-07-14_20:58:50 INFO Loading Drop System ...
+2025-07-14_20:58:50 INFO Loading Zen Drop ...
+2025-07-14_20:58:50 INFO >> Loaded 125 ZenDrop definitions
+2025-07-14_20:58:50 INFO  
+2025-07-14_20:58:50 INFO Loading AllMonsterBag ...
+2025-07-14_20:58:50 INFO >> Loaded 438 AllMonsterBag definitions
+2025-07-14_20:58:50 INFO  
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:50 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO Loading EachMonsterMapList ...
+2025-07-14_20:58:51 INFO >> Loaded 66 EachMonsterMapList definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading EventItemMonsterBag ...
+2025-07-14_20:58:51 INFO >> Loaded 36 EventItemMonsterBag definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading PentagramItemDropRate ...
+2025-07-14_20:58:51 INFO Loading SocketItemDropRate ...
+2025-07-14_20:58:51 INFO Loading SetItemMonsterBag ...
+2025-07-14_20:58:51 INFO >> Loaded 354 SetItemMonsterBag definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading EventItemDrop.ini File
+2025-07-14_20:58:51 INFO Loading EventItemDrop.ini File Finished
+2025-07-14_20:58:51 INFO Loading ItemDropRateControl.ini File Finished
+2025-07-14_20:58:51 INFO Loading ItemDropRateControl.ini File Finished
+2025-07-14_20:58:51 INFO Loading Drop System Finished ...
+2025-07-14_20:58:51 INFO Loading Artifact Options...
+2025-07-14_20:58:51 INFO >> Loaded 28 Artifact Options
+2025-07-14_20:58:51 INFO >> Loaded 34 Artifact Base Values
+2025-07-14_20:58:51 INFO Loading Artifact System...
+2025-07-14_20:58:51 INFO Loading Item ItemDecomposition ...
+2025-07-14_20:58:51 INFO Loading Item Template...
+2025-07-14_20:58:51 INFO >> Loaded 4279 item definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item MasteryExcOptions...
+2025-07-14_20:58:51 INFO >> Loaded 552 item MasteryExcOptions definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading VoucherItemExchange Template...
+2025-07-14_20:58:51 INFO Loading Item HarmonySmeltLevel...
+2025-07-14_20:58:51 INFO Loading Item Add Option...
+2025-07-14_20:58:51 INFO >> Loaded 40 item add option definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Set Type...
+2025-07-14_20:58:51 INFO >> Loaded 1184 item set type definitions in 0 msec.
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Set Option...
+2025-07-14_20:58:51 INFO >> Loaded 311 item set option definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Harmony...
+2025-07-14_20:58:51 INFO >> Loaded 26 item harmony definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Harmony Enhancement...
+2025-07-14_20:58:51 INFO >> Loaded 44 item harmony enhancement definitions in 0 msec.
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Socket...
+2025-07-14_20:58:51 INFO >> Loaded 231 item socket definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Socket Seed...
+2025-07-14_20:58:51 INFO >> Loaded 30 item socket seed definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Socket Bonus...
+2025-07-14_20:58:51 INFO >> Loaded 40 item socket bonus definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Socket Package...
+2025-07-14_20:58:51 INFO >> Loaded 2 item socket package definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Socket Mix...
+2025-07-14_20:58:51 INFO >> Loaded 19 item socket mix definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Socket Upgrade...
+2025-07-14_20:58:51 INFO >> Loaded 111 item socket upgrade definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Socket Seed Sphere...
+2025-07-14_20:58:51 INFO >> Loaded 120 item socket seed sphere definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Transformation...
+2025-07-14_20:58:51 INFO >> Loaded 21 item transformation definitions in 16 msec.
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Level Template...
+2025-07-14_20:58:51 INFO >> Loaded 160 item level template definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Mix Lucky Template...
+2025-07-14_20:58:51 INFO >> Loaded 123 item mix lucky definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Price Data...
+2025-07-14_20:58:51 INFO >> Loaded 0 item price data definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Stack...
+2025-07-14_20:58:51 INFO >> Loaded 203 item stack definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Quest...
+2025-07-14_20:58:51 INFO >> Loaded 25 item quest definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Wing Values...
+2025-07-14_20:58:51 INFO >> Loaded 111 item wing values definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Create Data...
+2025-07-14_20:58:51 INFO >> Loaded 44 item create data definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item FlagDB...
+2025-07-14_20:58:51 INFO >> Loaded 0 item flagdb definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Wing Socket Option...
+2025-07-14_20:58:51 INFO >> Loaded 8 item wing socket option definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Wing Socket Upgrade...
+2025-07-14_20:58:51 INFO >> Loaded 15 item wing socket upgrade definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Earring...
+2025-07-14_20:58:51 INFO >> Loaded 14 item earring definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Earring Option...
+2025-07-14_20:58:51 INFO >> Loaded 31 item earring option definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Earring Option Value...
+2025-07-14_20:58:51 INFO >> Loaded 60 item earring option value definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Earring Bonus...
+2025-07-14_20:58:51 INFO >> Loaded 7 item earring bonus definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Earring Upgrade...
+2025-07-14_20:58:51 INFO >> Loaded 15 item earring upgrade definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Mastery Bonus...
+2025-07-14_20:58:51 INFO >> Loaded 6 item mastery bonus definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading LegendaryOptionRate...
+2025-07-14_20:58:51 INFO Loading Item Guardian Option...
+2025-07-14_20:58:51 INFO >> Loaded 5 item guardian option definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Guardian Option Value...
+2025-07-14_20:58:51 INFO >> Loaded 30 item guardian option value definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Guardian Elite Option...
+2025-07-14_20:58:51 INFO >> Loaded 5 item guardian elite option definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Item Guardian Elite Option Value...
+2025-07-14_20:58:51 INFO >> Loaded 30 item guardian elite option value definitions
+2025-07-14_20:58:51 INFO  
+2025-07-14_20:58:51 INFO Loading Legendary Item Bonus Options...
+2025-07-14_20:58:51 INFO Loading LegendaryItemSetType...
+2025-07-14_20:58:51 INFO Loading LegendaryWeaponSetOption...
+2025-07-14_20:58:52 INFO Loading Skill Template...
+2025-07-14_20:58:52 INFO >> Loaded 948 skill definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Skill Learn...
+2025-07-14_20:58:52 INFO >> Loaded 150 skill learn definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Skill Tree...
+2025-07-14_20:58:52 INFO >> Loaded 993 skill tree
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Skill Special Element...
+2025-07-14_20:58:52 INFO >> Loaded 159 skill special element definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Skill Special...
+2025-07-14_20:58:52 INFO >> Loaded 151 skill special definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Buff Template...
+2025-07-14_20:58:52 INFO >> Loaded 422 buff definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Skill Require...
+2025-07-14_20:58:52 ERROR LoadSkillRequire() skill: 736
+2025-07-14_20:58:52 INFO >> Loaded 31 skill require definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Skill Tree Majestic...
+2025-07-14_20:58:52 INFO >> Loaded 2443 skill tree majestic definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Skill Tree Majestic Stat...
+2025-07-14_20:58:52 INFO >> Loaded 120 skill tree majestic stat definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Skill Attack Time...
+2025-07-14_20:58:52 INFO >> Loaded 898 skill attack time definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Particle List...
+2025-07-14_20:58:52 INFO Loading Particle Options List...
+2025-07-14_20:58:52 INFO Loading Particle Skill List...
+2025-07-14_20:58:52 INFO Loading Particle Level Up...
+2025-07-14_20:58:52 INFO Loading Particle Reduction...
+2025-07-14_20:58:52 INFO Loading Character Base...
+2025-07-14_20:58:52 INFO >> Loaded 15 character base definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Item...
+2025-07-14_20:58:52 INFO >> Loaded 222 character item definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Base Buff...
+2025-07-14_20:58:52 INFO >> Loaded 0 character base buff definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Skill...
+2025-07-14_20:58:52 INFO >> Loaded 112 character skill definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Experience Normal...
+2025-07-14_20:58:52 INFO >> Loaded 400 character experience normal definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Experience Master...
+2025-07-14_20:58:52 INFO >> Loaded 400 character experience master definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Experience Majestic...
+2025-07-14_20:58:52 INFO >> Loaded 900 character experience majestic definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Item Experience ...
+2025-07-14_20:58:52 INFO >> Loaded 7 Character Item Experience definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Helper...
+2025-07-14_20:58:52 INFO >> Loaded 75 character helper stages
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Stat Fruit...
+2025-07-14_20:58:52 INFO >> Loaded 600 character stat fruit definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Specialization...
+2025-07-14_20:58:52 INFO >> Loaded 159 character specialization definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Experience Adjust...
+2025-07-14_20:58:52 INFO >> Loaded 0 character experience adjust definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Experience Bonus...
+2025-07-14_20:58:52 INFO >> Loaded 7 character experience bonus definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Bonus...
+2025-07-14_20:58:52 INFO >> Loaded 0 character bonus definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Max Level Reward...
+2025-07-14_20:58:52 INFO >> Loaded 0 character max level reward definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Character Experience Table...
+2025-07-14_20:58:52 INFO >> Loaded 0 character experience table definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Jewel Mix...
+2025-07-14_20:58:52 INFO >> Loaded 30 jewel mix definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading AI Scripts...
+2025-07-14_20:58:52 INFO AI Scripts loaded
+2025-07-14_20:58:52 INFO Loading Boss Batlle system Template...
+2025-07-14_20:58:52 INFO Loading Monster Template...
+2025-07-14_20:58:52 INFO >> Loaded 887 monsters definitions in 16 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Monster Skill...
+2025-07-14_20:58:52 INFO >> Loaded 387 monster skill
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Monster Skill Special...
+2025-07-14_20:58:52 INFO >> Loaded 380 monster skill special
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Monster AI Element...
+2025-07-14_20:58:52 INFO >> Loaded 66 monster ai element definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Monster AI Automata...
+2025-07-14_20:58:52 INFO >> Loaded 258 monster ai automata definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Monster AI Unit...
+2025-07-14_20:58:52 INFO >> Loaded 54 monster ai unit definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Monster AI Group...
+2025-07-14_20:58:52 INFO >> Loaded 84 monster ai groups
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Monster Respawn Location...
+2025-07-14_20:58:52 INFO >> Loaded 33 monster respawn locations
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Monster Equipment...
+2025-07-14_20:58:52 INFO >> Loaded 0 monster equipment definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Monster Exclusive...
+2025-07-14_20:58:52 INFO >> Loaded 0 monster exclusive definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Monster...
+2025-07-14_20:58:52 INFO >> Loaded 11819 monsters
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Gate...
+2025-07-14_20:58:52 INFO >> Loaded 597 gate definitions in 0 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Teleport...
+2025-07-14_20:58:52 INFO >> Loaded 68 teleport definitions in 0 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Move Level...
+2025-07-14_20:58:52 INFO >> Loaded 62 move level definitions in 0 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Vip Template...
+2025-07-14_20:58:52 INFO >> Loaded 4 vip template
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Quest Evolution Template...
+2025-07-14_20:58:52 INFO >> Loaded 15 quest evolution definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Quest Evolution Data...
+2025-07-14_20:58:52 INFO >> Loaded 41 quest evolution data definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Quest Evolution Condition...
+2025-07-14_20:58:52 INFO >> Loaded 36 quest evolution condition definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Quest Evolution Item Reward...
+2025-07-14_20:58:52 INFO >> Loaded 0 quest evolution item reward definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Quest Guided Setting...
+2025-07-14_20:58:52 INFO Loaded 186 quest guided definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Quest MU...
+2025-07-14_20:58:52 INFO Loaded 468 quest mu definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Gen Reward...
+2025-07-14_20:58:52 INFO >> Loaded 0 gen rewards
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Gen Ranking...
+2025-07-14_20:58:52 INFO >> Loaded 0 gen rankings
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Gen Kill Point...
+2025-07-14_20:58:52 INFO >> Loaded 0 gen kill points
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Event Manager...
+2025-07-14_20:58:52 INFO >> Loaded 115 event manager definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Invasion Data...
+2025-07-14_20:58:52 INFO >> Loaded 15 event invasion definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Invasion Group...
+2025-07-14_20:58:52 INFO >> Loaded 81 event invasion group definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Monster Event...
+2025-07-14_20:58:52 INFO Loading Event Season...
+2025-07-14_20:58:52 INFO >> Loaded 8 event season definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Event Manager...
+2025-07-14_20:58:52 INFO Loading Allbosstogether Event Monsters...
+2025-07-14_20:58:52 INFO Finished Loading Allbosstogether Event Monsters...
+2025-07-14_20:58:52 INFO Loading BloodCastle Monsters
+2025-07-14_20:58:52 INFO Loading BloodCastle Event Setting
+2025-07-14_20:58:52 INFO Loading BloodCastle Event Setting Finished
+2025-07-14_20:58:52 INFO Loading DevilSquare MonsterList
+2025-07-14_20:58:52 INFO Loading DevilSquare Event Setting
+2025-07-14_20:58:52 INFO Loading CChaosCastle Monsters
+2025-07-14_20:58:52 INFO Loading BloodCastle Event Setting
+2025-07-14_20:58:52 INFO Chaos Castle Settings Loaded
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading ChaosCastleSurvival MonsterList
+2025-07-14_20:58:52 INFO Loading ChaosCastleSurvival MonsterList Finished
+2025-07-14_20:58:52 INFO Loading ChaosCastleSurvival Event Setting
+2025-07-14_20:58:52 INFO Loading Event Manager...
+2025-07-14_20:58:52 INFO Loading Event Manager...
+2025-07-14_20:58:52 INFO Loading Event Manager...
+2025-07-14_20:58:52 INFO [ ITR ] (1) Sync Open Time. [92]min remain
+2025-07-14_20:58:52 INFO [ ITR ] (2) Sync Open Time. [92]min remain
+2025-07-14_20:58:52 INFO [ ITR ] (3) Sync Open Time. [92]min remain
+2025-07-14_20:58:52 INFO [ ITR ] (4) Sync Open Time. [92]min remain
+2025-07-14_20:58:52 INFO [ ITR ] (5) Sync Open Time. [92]min remain
+2025-07-14_20:58:52 INFO [ ITR ] (6) Sync Open Time. [92]min remain
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:658, Map:45, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:659, Map:45, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:660, Map:45, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:661, Map:45, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:662, Map:45, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:663, Map:45, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:664, Map:45, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:665, Map:45, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:666, Map:45, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:667, Map:45, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:668, Map:45, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:658, Map:46, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:659, Map:46, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:660, Map:46, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:661, Map:46, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:662, Map:46, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:663, Map:46, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:664, Map:46, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:665, Map:46, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:666, Map:46, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:667, Map:46, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:668, Map:46, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:658, Map:47, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:659, Map:47, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:660, Map:47, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:661, Map:47, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:662, Map:47, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:663, Map:47, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:664, Map:47, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:665, Map:47, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:666, Map:47, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:667, Map:47, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:668, Map:47, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:658, Map:48, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:659, Map:48, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:660, Map:48, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:661, Map:48, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:662, Map:48, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:663, Map:48, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:664, Map:48, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:665, Map:48, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:666, Map:48, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:667, Map:48, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:668, Map:48, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:658, Map:49, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:659, Map:49, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:660, Map:49, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:661, Map:49, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:662, Map:49, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:663, Map:49, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:664, Map:49, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:665, Map:49, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:666, Map:49, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:667, Map:49, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:668, Map:49, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO Loading BloodCastle Monsters
+2025-07-14_20:58:52 INFO Loading BloodCastle Monsters
+2025-07-14_20:58:52 INFO Loading BloodCastle Event Setting
+2025-07-14_20:58:52 INFO Loading BloodCastle Event Setting
+2025-07-14_20:58:52 INFO Loading Imperial Fortress ...
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Imperial Fortress MonsterInfo...
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Imperial Fortress MonsterSpawn...
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Imperial Fortress Traps...
+2025-07-14_20:58:52 INFO >> Loaded 40 imperial fortress traps
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Doppelganger Level...
+2025-07-14_20:58:52 INFO Loading Doppelganger Level...
+2025-07-14_20:58:52 INFO >> Loaded 7 doppelganger level definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Doppelganger Monster Settings...
+2025-07-14_20:58:52 INFO >> Loaded 77 doppelganger monster settings
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Doppelganger MonsterList...
+2025-07-14_20:58:52 INFO Loading CastleSiege Event Setting
+2025-07-14_20:58:52 INFO Castle Siege State 0 duration 180 (68460 - 68640)
+2025-07-14_20:58:52 INFO Castle Siege State 1 duration 120 (68640 - 68760)
+2025-07-14_20:58:52 INFO Castle Siege State 2 duration 120 (68760 - 68880)
+2025-07-14_20:58:52 INFO Castle Siege State 3 duration 60 (68880 - 68940)
+2025-07-14_20:58:52 INFO Castle Siege State 4 duration 180 (68940 - 69120)
+2025-07-14_20:58:52 INFO Castle Siege State 5 duration 120 (69120 - 69240)
+2025-07-14_20:58:52 INFO Castle Siege State 6 duration 60 (69240 - 69300)
+2025-07-14_20:58:52 INFO Castle Siege State 7 duration 1500 (69300 - 70800)
+2025-07-14_20:58:52 INFO Castle Siege State 8 duration 15600 (70800 - 86400)
+2025-07-14_20:58:52 INFO Castle Siege State 9 duration -17940 (86400 - 68460)
+2025-07-14_20:58:52 INFO Loading CryWolf Event Setting
+2025-07-14_20:58:52 INFO Loading Castle Deep Settings...
+2025-07-14_20:58:52 INFO Loading Cash Shop Category...
+2025-07-14_20:58:52 INFO >> Loaded 11 cash shop category definitions in 0 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Cash Shop Package List...
+2025-07-14_20:58:52 INFO >> Loaded 73 cash shop package definitions in 16 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Cash Shop Product List...
+2025-07-14_20:58:52 INFO >> Loaded 128 cash shop product definitions in 0 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Filter...
+2025-07-14_20:58:52 INFO >> Loaded 0 filter definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Notice...
+2025-07-14_20:58:52 INFO >> Loaded 0 notice definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Goblin Point...
+2025-07-14_20:58:52 INFO >> Loaded 0 goblin point definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Non Pk Time...
+2025-07-14_20:58:52 INFO >> Loaded 0 non pk time definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Notifications...
+2025-07-14_20:58:52 INFO >> Loaded 0 notifications definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Offset Data...
+2025-07-14_20:58:52 INFO >> Loaded 0 offset data definitions in 0 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Offset FPS...
+2025-07-14_20:58:52 INFO >> Loaded 0 offset fps definitions in 0 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Cheat Scan White List...
+2025-07-14_20:58:52 INFO >> Loaded 0 cheat scan white list definitions in 0 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Offline Attack Setting...
+2025-07-14_20:58:52 INFO >> Load Offline Attack Setting Succes
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Offline Attack World...
+2025-07-14_20:58:52 INFO >> Loaded 64 offline attack world definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Offline Attack Zone...
+2025-07-14_20:58:52 INFO >> Loaded 64 offline attack zone definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Scramble Words...
+2025-07-14_20:58:52 INFO >> Loaded 22 scramble words
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Mix Disabled...
+2025-07-14_20:58:52 INFO >> Loaded 0 mix disabled definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Mix SpellStone...
+2025-07-14_20:58:52 INFO >> Loaded 28 mix spell stone definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Mix Guardian...
+2025-07-14_20:58:52 INFO >> Loaded 65 mix guardian definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading LoadArchangel Mix ...
+2025-07-14_20:58:52 INFO Loading Mixes...
+2025-07-14_20:58:52 INFO >> Loaded 313 mix definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Pentagram Type...
+2025-07-14_20:58:52 INFO >> Loaded 24 pentagram type definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Pentagram Option...
+2025-07-14_20:58:52 INFO >> Loaded 31 pentagram option definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Pentagram Jewel Option...
+2025-07-14_20:58:52 INFO >> Loaded 109 pentagram jewel option definitions in 16 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Pentagram Jewel Remove...
+2025-07-14_20:58:52 INFO >> Loaded 11 pentagram jewel remove definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Pentagram Jewel Upgrade Rank...
+2025-07-14_20:58:52 INFO >> Loaded 4 pentagram jewel upgrade rank definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Pentagram Jewel Upgrade Level...
+2025-07-14_20:58:52 INFO >> Loaded 11 pentagram jewel upgrade level definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Muun...
+2025-07-14_20:58:52 INFO >> Loaded 384 muun definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Muun Option...
+2025-07-14_20:58:52 INFO >> Loaded 78 muun option definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Muun Energy...
+2025-07-14_20:58:52 INFO >> Loaded 4 muun energy definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Muun Exchange...
+2025-07-14_20:58:52 INFO >> Loaded 6 muun exchange definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Mini Map...
+2025-07-14_20:58:52 INFO >> Loaded 498 mini map definitions in 0 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Summon Scroll...
+2025-07-14_20:58:52 INFO >> Loaded 10 summon scroll definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Summon Scroll Monster...
+2025-07-14_20:58:52 INFO >> Loaded 40 summon scroll monster definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Mining...
+2025-07-14_20:58:52 INFO >> Loaded 15 mining definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading ProtectorOfAcheron Event Setting
+2025-07-14_20:58:52 INFO Loading Tormented Square EventSettings...
+2025-07-14_20:58:52 INFO Loading Tormented Square Stage...
+2025-07-14_20:58:52 INFO >> Loaded 24 tormented square stage definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Tormented Square Ranking...
+2025-07-14_20:58:52 INFO >> Loaded 1 tormented square ranking definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Evomon...
+2025-07-14_20:58:52 INFO >> Loaded 101 evomon definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Evomon Reward...
+2025-07-14_20:58:52 INFO >> Loaded 8 evomon reward definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading ArkaWar Event Setting
+2025-07-14_20:58:52 INFO Loading Labyrinth of Dimensions Settings...
+2025-07-14_20:58:52 INFO Loading Labyrinth of Dimensions Info...
+2025-07-14_20:58:52 INFO >> Loaded 38 labyrinth of dimensions info definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Labyrinth of Dimensions Mission...
+2025-07-14_20:58:52 INFO >> Loaded 11 labyrinth of dimensions mission definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Labyrinth of Dimensions Area...
+2025-07-14_20:58:52 INFO >> Loaded 30 labyrinth of dimensions area definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Labyrinth of Dimensions Area Data...
+2025-07-14_20:58:52 INFO >> Loaded 3000 labyrinth of dimensions area data definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Labyrinth of Dimensions Level...
+2025-07-14_20:58:52 INFO >> Loaded 41 labyrinth of dimensions level definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Labyrinth of Dimensions Monster...
+2025-07-14_20:58:52 INFO >> Loaded 41 labyrinth of dimensions monster definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Labyrinth of Dimensions Reward...
+2025-07-14_20:58:52 INFO >> Loaded 220 labyrinth of dimensions reward definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Event Manager...
+2025-07-14_20:58:52 INFO Loading Shop Price Texts...
+2025-07-14_20:58:52 INFO Loading Shop Template...
+2025-07-14_20:58:52 INFO >> Loaded 26 shop definitions in 16 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Shop Items...
+2025-07-14_20:58:52 INFO >> Loaded 26 shop items in 109 msec.
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Item Price Ruud...
+2025-07-14_20:58:52 INFO >> Loaded 188 item price ruud definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Moss Merchant Section...
+2025-07-14_20:58:52 INFO >> Loaded 11 moss merchant section definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO [ ITR ] (1) Sync Open Time. [92]min remain
+2025-07-14_20:58:52 INFO [ ITR ] (2) Sync Open Time. [92]min remain
+2025-07-14_20:58:52 INFO [ ITR ] (3) Sync Open Time. [92]min remain
+2025-07-14_20:58:52 INFO [ ITR ] (4) Sync Open Time. [92]min remain
+2025-07-14_20:58:52 INFO [ ITR ] (5) Sync Open Time. [92]min remain
+2025-07-14_20:58:52 INFO [ ITR ] (6) Sync Open Time. [92]min remain
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:658, Map:45, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:659, Map:45, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:660, Map:45, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:661, Map:45, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:662, Map:45, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:663, Map:45, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:664, Map:45, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:665, Map:45, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:666, Map:45, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:667, Map:45, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:668, Map:45, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:658, Map:46, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:659, Map:46, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:660, Map:46, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:661, Map:46, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:662, Map:46, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:663, Map:46, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:664, Map:46, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:665, Map:46, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:666, Map:46, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:667, Map:46, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:668, Map:46, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:658, Map:47, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:659, Map:47, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:660, Map:47, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:661, Map:47, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:662, Map:47, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:663, Map:47, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:664, Map:47, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:665, Map:47, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:666, Map:47, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:667, Map:47, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:668, Map:47, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:658, Map:48, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:659, Map:48, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:660, Map:48, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:661, Map:48, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:662, Map:48, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:663, Map:48, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:664, Map:48, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:665, Map:48, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:666, Map:48, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:667, Map:48, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:668, Map:48, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:658, Map:49, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:659, Map:49, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:660, Map:49, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:661, Map:49, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:662, Map:49, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:663, Map:49, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:664, Map:49, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:665, Map:49, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:666, Map:49, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:667, Map:49, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO [ ITR ][AddITRNpcInfo] NpcID:668, Map:49, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:255
+2025-07-14_20:58:52 INFO Loading Monster Soul Converter...
+2025-07-14_20:58:52 INFO >> Loaded 5 monster soul converter definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Monster Soul Transformation...
+2025-07-14_20:58:52 INFO >> Loaded 30 monster soul transformation definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Monster Soul Reward...
+2025-07-14_20:58:52 INFO >> Loaded 16 monster soul reward definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Reset System Data...
+2025-07-14_20:58:52 INFO >> Loaded 1 Reset System definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Load Dynamic Experience Data
+2025-07-14_20:58:52 INFO >> Loaded 3 Dynamic Experience definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading WingCore Settings ...
+2025-07-14_20:58:52 INFO Loading Wing Grade Settings ...
+2025-07-14_20:58:52 INFO Loading guilds...
+2025-07-14_20:58:52 INFO >> Loaded 1 guilds in 1 ms
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Party...
+2025-07-14_20:58:52 INFO >> Loaded 0 party
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Mini Bomb Reward...
+2025-07-14_20:58:52 INFO >> Loaded 4 mini bomb reward definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Mu Roomy Reward...
+2025-07-14_20:58:52 INFO >> Loaded 6 mu roomy reward definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Jewel Bingo Reward...
+2025-07-14_20:58:52 INFO >> Loaded 4 jewel bingo reward definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Numeric Baseball Reward...
+2025-07-14_20:58:52 INFO >> Loaded 3 numeric baseball reward definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Labyrinth of Dimensions Ranking...
+2025-07-14_20:58:52 INFO >> Loaded 0 labyrinth of dimensions ranking definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO Loading Labyrinth of Dimensions Schedule...
+2025-07-14_20:58:52 INFO >> Loaded 1 labyrinth of dimensions schedule definitions
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO >> Loaded Notice System Succes
+2025-07-14_20:58:52 INFO  
+2025-07-14_20:58:52 INFO CONNECTING SERVERLINK
+2025-07-14_20:58:52 INFO CONNECTED SERVERLINK
+2025-07-14_20:58:52 INFO CONNECTING AUTHSERVER
+2025-07-14_20:58:52 INFO CONNECTED AUTHSERVER
+2025-07-14_20:58:52 INFO CONNECTING CONNECTSERVER
+2025-07-14_20:58:52 INFO CONNECTED CONNECTSERVER
+2025-07-14_20:58:52 INFO Start Loading Lua
+2025-07-14_20:58:52 INFO InitLuaFunction...
+2025-07-14_20:58:52 INFO Loading Skill Lua ...
+2025-07-14_20:58:52 INFO RegularSkillCalc.lua Loaded
+2025-07-14_20:58:52 INFO MasterSkillCalc_3rd.lua Loaded
+2025-07-14_20:58:52 INFO MasterSkillCalc_4th.lua Loaded
+2025-07-14_20:58:53 INFO MasterSkillCalc_5th.lua Loaded
+2025-07-14_20:58:53 INFO CalcCharacter.lua Loaded
+2025-07-14_20:58:53 INFO ItemBagScript.lua Loaded
+2025-07-14_20:58:53 INFO Loading Lua Finished...
+2025-07-14_20:58:53 INFO Loading ItemBagList...
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\000 - Item_(14,11,0)_Luck_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\001 - Item_(14,11,1)_Sacred_Birth_Star.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\002 - Item_(14,11,2)_Firecracker.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\003 - Item_(14,11,3)_Love_Heart.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\004 - Item_(14,11,5)_Silver_Medal.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\005 - Item_(14,11,6)_Gold_Medal.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\006 - Item_(14,11,7)_Heaven_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\007 - Item_(14,11,8)_Kundun_Box+1.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\008 - Item_(14,11,9)_Kundun_Box+2.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\009 - Item_(14,11,10)_Kundun_Box+3.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\010 - Item_(14,11,11)_Kundun_Box+4.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\011 - Item_(14,11,12)_Kundun_Box+5.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\012 - Item_(14,45,0)_Pumpkin_of_Luck.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\013 - Item_(14,52,0)_GM_Gift_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\014 - Item_(14,55,0)_Green_Chaos_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\015 - Item_(14,56,0)_Red_Chaos_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\016 - Item_(14,57,0)_Purple_Chaos_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\017 - Item_(14,84,0)_Cherry_Blossom_Play_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\018 - Item_(14,123,0)_Golden_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\019 - Item_(14,124,0)_Silver_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\020 - Item_(14,157,0)_Green_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\021 - Item_(14,158,0)_Red_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\022 - Item_(14,159,0)_Purple_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\023 - Item_(14,141,0)_Shining_Jewelry_Case.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\024 - Item_(14,142,0)_Elegant_Jewelry_Case.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\025 - Item_(14,143,0)_Steel_Jewelry_Case.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\026 - Item_(14,144,0)_Old_Jewelry_Case.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\027 - Item_(14,248,0)_Minor_Evomon_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\028 - Item_(14,249,0)_Standard_Evomon_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\029 - Item_(14,250,0)_Greater_Evomon_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\030 - Item_(14,251,0)_Luxurious_Evomon_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\031 - Item_(14,252,0)_Magnificent_Evomon_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\032 - Item_(14,253,0)_Legendary_Evomon_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\033 - Item_(14,254,0)_Gift_of_Henchmen.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\034 - Item_(14,256,0)_Gift_of_Knights.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\035 - Item_(14,257,0)_Gift_of_High_Knights.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\036 - Item_(14,258,0)_Minor_Devils_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\037 - Item_(14,259,0)_Devils_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\038 - Item_(14,260,0)_High_Devils_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\039 - Item_(14,261,0)_Guardsmans_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\040 - Item_(14,265,0)_Goblin_Treasure_Box_(Green).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\041 - Item_(14,266,0)_Goblin_Treasure_Box_(Blue).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\042 - Item_(14,267,0)_Goblin_Treasure_Box_(Red).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\043 - Item_(14,268,0)_Goblin_Treasure_Box_(Yellow).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\044 - Item_(14,262,0)_Guardman_Captains_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\045 - Item_(14,286,0)_Pentagram_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\046 - Item_(14,354,0)_PlayTime_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\047 - Item_(14,355,0)_PlayTime_Special_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\048 - Item_(14,406,0)_Intermediate_Mastery_Weapon_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\049 - Item_(14,407,0)_Speed_Server_Competition_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\050 - Item_(14,412,0)_Intermediate_Mastery_Armor_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\051 - Item_(14,414,0)_Manche_Compensation_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\052 - Item_(14,421,0)_Second_Wing_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\053 - Item_(14,422,0)_Third_Wing_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\054 - Item_(14,440,0)_Compensation_Box_B.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\055 - Item_(14,490,0)_[TEST]_Mastery_Armor_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\056 - Item_(14,491,0)_[TEST]_Mastery_Weapon_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\057 - Item_(14,493,0)_Term_Wing_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\058 - Item_(14,503,0)_Maple_Play_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\059 - Item_(20,231)_60-Day_Dark_Angel_Armor_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\060 - Item_(12,32,0)_Red_Ribbon_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\061 - Item_(12,33,0)_Green_Ribbon_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\062 - Item_(12,34,0)_Blue_Ribbon_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\063 - Item_(14,32,1)_Light_Purple_Candy_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\064 - Item_(14,33,1)_Orange_Candy_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\065 - Item_(14,34,1)_Dark_Blue_Candy_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\066 - Item_(13,210,0)_WereRabbit_Egg.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\067 - Item_(13,220,0)_Lucky_Bag_Egg.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\068 - Item_(13,221,0)_Fire_Flame_Ghost_Egg.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\069 - Item_(13,222,0)_Golden_Goblin_Egg.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\070 - Item_(13,350,0)_Roomy_Egg.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\071 - Item_(14,32,0)_Pink_Chocolate_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\072 - Item_(14,33,0)_Red_Chocolate_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\073 - Item_(14,34,0)_Blue_Chocolate_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\074 - Item_(14,282,0)_Mastery_Box_(Minor).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\075 - Item_(14,283,0)_Mastery_Box_(Standard).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\076 - Item_(14,284,0)_Mastery_Box_(Greater).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\077 - Item_(14,287,0)_Mastery_Reward_Chest_(2000).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\078 - Item_(14,288,0)_Mastery_Reward_Chest_(1000).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\079 - Item_(14,289,0)_Mastery_Reward_Chest_(500).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\080 - Item_(14,293,0)_Elemental_Capsule_(Normal).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\081 - Item_(14,296,0)_Elemental_Capsule_(Fire).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\082 - Item_(14,336,0)_Mastery_Reward_Chest_(100).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\083 - Item_(14,337,0)_Elemental_Capsule_(Earth).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\084 - Item_(14,338,0)_Elemental_Capsule_(Water).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\085 - Item_(14,339,0)_Elemental_Capsule_(Wind).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\086 - Item_(14,340,0)_Elemental_Capsule_(Darkness).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\087 - Item_(14,351,0)_Element_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\088 - Item_(14,352,0)_Ruud_Box_(10).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\089 - Item_(14,367,0)_Roomy_Card_Box_(Lower).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\090 - Item_(14,368,0)_Roomy_Card_Box_(Medium).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\091 - Item_(14,369,0)_Roomy_Card_Box_(Higher).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\092 - Item_(14,374,0)_Event_Lower_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\093 - Item_(14,375,0)_Event_Medium_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\094 - Item_(14,376,0)_Event_Higher_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\095 - Item_(14,377,0)_Event_Luxury_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\096 - Item_(14,378,0)_Seed_Capsule_(Fire).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\097 - Item_(14,379,0)_Seed_Capsule_(Water).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\098 - Item_(14,380,0)_Seed_Capsule_(Ice).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\099 - Item_(14,381,0)_Seed_Capsule_(Wind).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\100 - Item_(14,382,0)_Seed_Capsule_(Lightning).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\101 - Item_(14,383,0)_Seed_Capsule_(Earth).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\102 - Item_(14,384,0)_Sphere_Upgrade_Rune_Capsule.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\103 - Item_(14,385,0)_Mysterious_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\104 - Item_(14,391,0)_Event_Gift_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\105 - Item_(14,392,0)_Card_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\106 - Item_(14,393,0)_Card_Box_(10).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\107 - Item_(14,398,0)_Elemental_Talisman_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\108 - Item_(14,400,0)_Ruud_Box_(10).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\109 - Item_(14,401,0)_Ruud_Box_(50).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\110 - Item_(14,402,0)_Ruud_Box_(100).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\111 - Item_(14,403,0)_Labyrinth_Box_(Lower).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\112 - Item_(14,404,0)_Labyrinth_Box_(Medium).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\113 - Item_(14,405,0)_Labyrinth_Box_(Higher).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\114 - Item_(14,408,0)_Jewel_Bingo_Lower_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\115 - Item_(14,409,0)_Jewel_Bingo_Intermediate_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\116 - Item_(14,410,0)_Jewel_Bingo_Advanced_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\117 - Item_(14,411,0)_Jewel_Bingo_Premium_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\118 - Item_(12,481,0)_Special_Grain.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\119 - Item_(14,423,0)_Baseball_Lower_Case.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\120 - Item_(14,424,0)_Baseball_Intermediate_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\121 - Item_(14,425,0)_Baseball_Senior_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\122 - Item_(14,441,0)_Lapidary_Stone_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\123 - Item_(14,442,0)_Shiny_Earring_Box_(Left).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\124 - Item_(14,443,0)_Shiny_Earring_Box_(Right).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\125 - Item_(14,445,0)_Box_of_Blessing.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\126 - Item_(14,447,0)_Ruud_Box_(2000).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\127 - Item_(14,448,0)_Ruud_Box_(3000).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\128 - Item_(14,480,0)_[Lvl 1]_Soul_Converter_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\129 - Item_(14,481,0)_[Lvl 2]_Soul_Converter_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\130 - Item_(14,482,0)_[Lvl 3]_Soul_Converter_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\131 - Item_(14,483,0)_[Lvl 4]_Soul_Converter_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\132 - Item_(14,484,0)_[Lvl 5]_Soul_Converter_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\133 - Item_(14,485,0)_Ruud_Box_(500).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\134 - Item_(14,486,0)_Ruud_Box_(1500).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\135 - Item_(14,489,0)_Ruud_Box_(400).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\136 - Item_(20,68,0)_Limited_Time_Wing_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\137 - Item_(20,69,0)_Earring_Box_of_Fury_(Left).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\138 - Item_(20,70,0)_Earring_Box_of_Fury_(Right).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\139 - Item_(20,71,0)_Ghost_Horse_Capsule.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\140 - Item_(20,72,0)_Blood_Angel_Armor_Box_(1).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\141 - Item_(20,73,0)_Blood_Angel_Armor_Box_(2).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\142 - Item_(20,74,0)_Blood_Angel_Armor_Box_(3).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\143 - Item_(20,75,0)_Blood_Angel_Armor_Box_(4).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\144 - Item_(20,76,0)_Blood_Angel_Weapon_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\145 - Item_(20,78,0)_Harmony_Jewel_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\146 - Item_(20,85,0)_[Bound]_+13_Third_Wing_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\147 - Item_(20,86,0)_[Speed]_Earring_Box_(Right).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\148 - Item_(20,103,0)_Spider_Artifact_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\149 - Item_(20,106,0)_Spider_Artifact_6_7_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\150 - Item_(20,107,0)_Artifact_Enchantment_Stone_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\151 - Item_(20,110,0)_Boss_Battle_Bonus_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\152 - Item_(20,120,0)_Elixir_Jar.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\153 - Item_(20,121,0)_[Bound]_Brilliant_Amulet_Box.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\154 - Item_(20,125,0)_Ruud_Box_(10000).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\155 - Item_(20,142,0)_Tempest_Muun Egg_(Amplified).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\156 - Item_(20,143,0)_Tempest_Muun_Box_(Amplified).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\157 - Item_(20,144,0)_Tempest_Muun_Evolution_Stone_Box_(Amplified).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\158 - Item_(20,145,0)_Tempest_Muun_Egg_(Wide).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\159 - Item_(20,146,0)_Tempest_Muun_Box_(Wide).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\160 - Item_(20,147,0)_Tempest_Muun_Evolution_Stone_Box_(Wide).xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\200 - Item_MossMerchant01.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\201 - Item_MossMerchant02.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\202 - Item_MossMerchant03.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\203 - Item_MossMerchant04.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\204 - Item_MossMerchant05.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\205 - Item_MossMerchant06.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\206 - Item_MossMerchant07.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\207 - Item_MossMerchant08.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\208 - Item_MossMerchant09.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\209 - Item_MossMerchant10.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\210 - Item_MossMerchant11.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\300 - Monster_(18)_Gorgon.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\301 - Monster_(25)_Ice_Queen.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\302 - Monster_(38)_Balrog.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\303 - Monster_(43)_Golden_Budge_Dragon.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\304 - Monster_(44)_Dragon_Red.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\305 - Monster_(49)_Hydra.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\306 - Monster_(53)_Golden_Titan.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\307 - Monster_(54)_Golden_Soldier.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\308 - Monster_(55)_Death_King.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\309 - Monster_(59)_Zaikan.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\310 - Monster_(78)_Golden_Goblin.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\311 - Monster_(79)_Golden_Dragon.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\312 - Monster_(80)_Golden_Lizard_King.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\313 - Monster_(81)_Golden_Vepar.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\314 - Monster_(82)_Golden_Tantalos.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\315 - Monster_(83)_Golden_Wheel.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\316 - Monster_(295)_Erohim.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\317 - Monster_(340)_Dark_Elf.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\318 - Monster_(349)_Balgass.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\319 - Monster_(361)_Nightmare.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\320 - Monster_(362)_Mayas_Left_Hand.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\321 - Monster_(363)_Mayas_Right_Hand.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\322 - Monster_(365)_Pouch_of_Blessing.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\323 - Monster_(413)_Lunar_Rabbit.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\324 - Monster_(414)_Helper_Ellen.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\325 - Monster_(459)_Selupan.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\326 - Monster_(493)_Golden_Dark_Knight.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\327 - Monster_(494)_Golden_Devil.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\328 - Monster_(495)_Golden_Stone_Golem.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\329 - Monster_(496)_Golden_Crust.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\330 - Monster_(497)_Golden_Satyros.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\331 - Monster_(498)_Golden_Twin_Tail.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\332 - Monster_(499)_Golden_Iron_Knight.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\333 - Monster_(500)_Golden_Napin.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\334 - Monster_(501)_Golden_Great_Dragon.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\335 - Monster_(502)_Golden_Rabbit.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\336 - Monster_(561)_Medusa.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\337 - Monster_(647)_Snake_Green.xml 
+2025-07-14_20:58:53 INFO Loading ItemBagFile ..\Data\ItemBags\338 - Monster_(648)_Snake_Yellow.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\339 - Monster_(649)_Snake_Purple.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\340 - Monster_(650)_Snake_Red.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\341 - Monster_(463)_Fire_Flame_Ghost.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\342 - Monster_(674)_Moon_Rabbit.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\343 - Monster_(675)_Pouch_of_Blessing.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\344 - Monster_(676)_Fire_Flame_Ghost.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\345 - Monster_(677)_Golden_Goblin.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\346 - Monster_(709)_Chaos_Goblin.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\347 - Monster_(710)_Chaos_Goblin.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\348 - Monster_(711)_Chaos_Goblin.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\349 - Monster_(712)_Chaos_Goblin.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\350 - Monster_(726)_Sheep_Green.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\351 - Monster_(727)_Sheep_White.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\352 - Monster_(728)_Sheep_Purple.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\353 - Monster_(729)_Sheep_Red.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\354 - Monster_(739)_Monkey_Green.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\355 - Monster_(740)_Monkey_White.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\356 - Monster_(741)_Monkey_Purple.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\357 - Monster_(742)_Monkey_Red.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\358 - Monster_(759)_Rooster_Green.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\359 - Monster_(760)_Rooster_White.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\360 - Monster_(761)_Rooster_Purple.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\361 - Monster_(762)_Rooster_Red.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\362 - Monster_(808)_Power_Chicken.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\363 - Monster_(839)_Elite_Great_Bahamut_of_Abyss.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\364 - Monster_(840)_Elite_Lizard_King_of_Abyss.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\365 - Monster_(848)_Elite_Scorched_Warrior.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\366 - Monster_(849)_Elite_Scorched_Assassins.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\367 - Monster_(850)_Elite_Scorched Wizard.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\368 - Monster_(930)_Elite_Bloody_Wolf_of_Fresh_Blood.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\369 - Monster_(931)_Elite_Bloody_Beam_Knight.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\370 - Monster_(932)_Elite_Bloody_Tantalus.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\371 - Monster_(966)_Elite_Devil_Sword.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\372 - Monster_(967)_Elite_Devil_Scythe.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\373 - Monster_(968)_Elite_Devil_Sorcerer.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\601 - Buff_Gladiators_Drop.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\602 - Event_DevilSquare_Rank(1)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\603 - Event_DevilSquare_Rank(2)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\604 - Event_DevilSquare_Rank(3)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\605 - Event_DevilSquare_Rank(4)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\606 - Event_DevilSquare_Rank(5)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\607 - Event_BloodCastle(1)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\608 - Event_BloodCastle(2)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\609 - Event_BloodCastle(3)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\610 - Event_BloodCastle(4)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\611 - Event_BloodCastle(5)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\612 - Event_BloodCastle(6)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\613 - Event_BloodCastle(7)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\614 - Event_ChaosCastle(1)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\615 - NPC_SantaClause(1)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\616 - NPC_SantaClause(2)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\617 - NPC_SantaClause(3)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\618 - Item_WarriorRing(40)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\619 - Item_WarriorRing(80)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\620 - Mix_LuckyCoin(10)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\621 - Mix_LuckyCoin(20)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\622 - Mix_LuckyCoin(30)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\623 - Mix_Senior_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\624 - Monster_(275)_Kundun.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\625 - Event_AcheronGuardian_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\626 - Event_CastleSiege_Loser_Main_GuildMaster_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\627 - Event_CastleSiege_Loser_Alliance_GuildMaster_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\628 - Event_CastleSiege_Winner_Main_GuildMaster_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\629 - Event_CastleSiege_Winner_Alliance_GuildMaster_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\630 - Event_ArcaBattle_Loser_GuildMaster_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\631 - Event_ArcaBattle_Winner_GuildMaster_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\632 - Event_IllusionTemple_Renewal_1.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\633 - Event_IllusionTemple_Renewal_2.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\634 - Event_IllusionTemple_Renewal_3.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\635 - Event_IllusionTemple_Renewal_4.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\636 - Event_IllusionTemple_Renewal_5.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\637 - Event_IllusionTemple_Renewal_6.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\638 - Monster_(652)_Golden_Goblin.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\639 - Monster_(653)_Golden_Titan.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\640 - Monster_(654)_Golden_Tantalose.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\641 - Monster_(655)_Golden_Erohim.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\642 - Monster_(656)_Golden_Hell_Maine.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\643 - Monster_(657)_Golden_Kundun.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\644 - Monster_(673)_Lord_Silvester.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\645 - Event_ChaosCastle(2)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\646 - Event_ChaosCastle(3)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\647 - Event_ChaosCastle(4)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\648 - Event_ChaosCastle(5)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\649 - Event_ChaosCastle(6)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\650 - Event_ChaosCastle(7)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\651 - Monster_(716)_Core_Magriffy.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\652 - Monster_(734)_Lord_of_Ferea.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\653 - Monster_(746)_Knicks.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\654 - Monster_(794)_God_of_Darkness.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\655 - Event_CW_Elf_Altar.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\656 - Event_CW_Hero_List.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\657 - Item_(14,460,0)_[Lvl1]_Monster_Soul_Converter.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\658 - Item_(14,461,0)_[Lvl2]_Monster_Soul_Converter.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\659 - Item_(14,462,0)_[Lvl3]_Monster_Soul_Converter.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\660 - Item_(14,463,0)_[Lvl4]_Monster_Soul_Converter.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\661 - Item_(14,464,0)_[Lvl5]_Monster_Soul_Converter.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\662 - Event_IllusionTemple_League_Match_Win.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\663 - Event_IllusionTemple_League_Tournament_Win.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\664 - Mix_Maple_Leaf_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\665 - Mix_Cherry_Blossom_Red_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\666 - Mix_Cherry_Blossom_Gold_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\667 - Mix_Cherry_Blossom_White_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\668 - Event_Monster_(561)_Medusa.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\669 - Event_Monster_(560)_Sapi_Queen.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\670 - Event_IWC_GuildMaster.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\671 - Event_IWC_GuildMember.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\672 - Event_IWC_Player.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\673 - ResetSystem_Regular.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\674 - ResetSystem_Milestone.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\675 - Event_ScrambleWord_Level_1.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\676 - Event_ScrambleWord_Level_2.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\677 - Event_HideAndSeek_Round_1.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\678 - Event_HideAndSeek_Round_2.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\679 - Event_HideAndSeek_Round_3.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\680 - Event_Raffle_Winner.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\681 - Event_Raffle_Lotto_3.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\682 - Event_Raffle_Lotto_2.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\683 - Event_Raffle_Lotto_1.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\684 - Event_Raffle_HitOrder_3.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\685 - Event_Raffle_HitOrder_2.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\686 - Event_Raffle_HitOrder_1.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\687 - Event_ImperialGuardian(1)_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\688 - Event_PlayTime_Round_1.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\689 - Event_PlayTime_Round_2.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\690 - Event_PlayTime_Round_3.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\691 - Event_PlayTime_Round_4.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\692 - Event_PlayTime_Round_5.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\693 - Event_PlayTime_Round_6.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\694 - Event_PlayTime_Round_7.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\695 - Event_PlayTime_Round_8.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\696 - Event_PlayTime_Round_9.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\697 - Event_PlayTime_Round_10.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\698 - Event_ImperialGuardian_Level(1)_Additional_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\699 - Event_BlessingBox_(899)_Kill.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\700 - Event_LastManStanding_Looser_Reward.xml 
+2025-07-14_20:58:54 INFO Loading ItemBagFile ..\Data\ItemBags\701 - Event_LastManStanding_Winner_Reward.xml 
+2025-07-14_20:58:54 INFO  
+2025-07-14_20:58:54 INFO GameServer Ready
+2025-07-14_20:58:55 INFO CEventMgr::UpdateSeason -- [6 - Winter - Enabled]
+2025-07-14_20:59:03 INFO Loading Monster Exclusive...
+2025-07-14_20:59:03 INFO >> Loaded 0 monster exclusive definitions
+2025-07-14_20:59:03 INFO  
+2025-07-14_20:59:03 INFO Loading Monster...
+2025-07-14_20:59:03 INFO >> Loaded 11819 monsters
+2025-07-14_20:59:03 INFO  
+2025-07-14_20:59:03 INFO Loading Monster Respawn...
+2025-07-14_20:59:03 INFO >> Loaded 0 monster respawn definitions
+2025-07-14_20:59:03 INFO  
+2025-07-14_20:59:03 INFO Updating Objets 12563 - Time: 80 ms
+2025-07-14_20:59:03 INFO Updating Viewport Objets 12563 - Time: 1 ms
+2025-07-14_20:59:08 INFO Updating Viewport Objets 12562 - Time: 2 ms
+2025-07-14_21:02:41 INFO Loading Character Base...
+2025-07-14_21:02:42 INFO >> Loaded 15 character base definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Item...
+2025-07-14_21:02:42 INFO >> Loaded 146 character item definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Base Buff...
+2025-07-14_21:02:42 INFO >> Loaded 0 character base buff definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Skill...
+2025-07-14_21:02:42 INFO >> Loaded 112 character skill definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Experience Normal...
+2025-07-14_21:02:42 INFO >> Loaded 400 character experience normal definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Experience Master...
+2025-07-14_21:02:42 INFO >> Loaded 400 character experience master definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Experience Majestic...
+2025-07-14_21:02:42 INFO >> Loaded 900 character experience majestic definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Helper...
+2025-07-14_21:02:42 INFO >> Loaded 75 character helper stages
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Stat Fruit...
+2025-07-14_21:02:42 INFO >> Loaded 600 character stat fruit definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Specialization...
+2025-07-14_21:02:42 INFO >> Loaded 159 character specialization definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Experience Adjust...
+2025-07-14_21:02:42 INFO >> Loaded 0 character experience adjust definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Experience Bonus...
+2025-07-14_21:02:42 INFO >> Loaded 7 character experience bonus definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Bonus...
+2025-07-14_21:02:42 INFO >> Loaded 0 character bonus definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Max Level Reward...
+2025-07-14_21:02:42 INFO >> Loaded 0 character max level reward definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:02:42 INFO Loading Character Experience Table...
+2025-07-14_21:02:42 INFO >> Loaded 0 character experience table definitions
+2025-07-14_21:02:42 INFO  
+2025-07-14_21:13:22 INFO Updating Viewport Objets 12585 - Time: 3 ms
+2025-07-14_21:20:17 INFO Loading Character Base...
+2025-07-14_21:20:17 INFO >> Loaded 15 character base definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Item...
+2025-07-14_21:20:17 INFO >> Loaded 163 character item definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Base Buff...
+2025-07-14_21:20:17 INFO >> Loaded 0 character base buff definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Skill...
+2025-07-14_21:20:17 INFO >> Loaded 112 character skill definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Experience Normal...
+2025-07-14_21:20:17 INFO >> Loaded 400 character experience normal definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Experience Master...
+2025-07-14_21:20:17 INFO >> Loaded 400 character experience master definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Experience Majestic...
+2025-07-14_21:20:17 INFO >> Loaded 900 character experience majestic definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Helper...
+2025-07-14_21:20:17 INFO >> Loaded 75 character helper stages
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Stat Fruit...
+2025-07-14_21:20:17 INFO >> Loaded 600 character stat fruit definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Specialization...
+2025-07-14_21:20:17 INFO >> Loaded 159 character specialization definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Experience Adjust...
+2025-07-14_21:20:17 INFO >> Loaded 0 character experience adjust definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Experience Bonus...
+2025-07-14_21:20:17 INFO >> Loaded 7 character experience bonus definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Bonus...
+2025-07-14_21:20:17 INFO >> Loaded 0 character bonus definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Max Level Reward...
+2025-07-14_21:20:17 INFO >> Loaded 0 character max level reward definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:20:17 INFO Loading Character Experience Table...
+2025-07-14_21:20:17 INFO >> Loaded 0 character experience table definitions
+2025-07-14_21:20:17 INFO  
+2025-07-14_21:24:17 INFO Updating Viewport Objets 12585 - Time: 4 ms
+2025-07-14_21:24:51 INFO DISCONNECTED SERVERLINK
+2025-07-14_21:24:51 INFO DISCONNECTED AUTHSERVER
+2025-07-14_21:24:51 INFO DISCONNECTED CONNECTSERVER
+2025-07-14_21:24:51 INFO Closing GameServer

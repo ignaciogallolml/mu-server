@@ -1,0 +1,10 @@
+2025-07-14_20:59:47 INFO Adding Player [158][test]
+2025-07-14_20:59:47 INFO LoginQueue::Process -- [Acc: test][IP: 192.168.0.187][MAC: 04:42:1A:48:70:20][SERIAL: 4174623308] Result: 1
+2025-07-14_21:02:50 INFO Removing Player [158][test] - Disconnected.
+2025-07-14_21:02:53 INFO Adding Player [158][test]
+2025-07-14_21:02:53 INFO LoginQueue::Process -- [Acc: test][IP: 192.168.0.187][MAC: 04:42:1A:48:70:20][SERIAL: 4174623308] Result: 1
+2025-07-14_21:03:46 INFO Removing Player [158][test] - Disconnected.
+2025-07-14_21:03:54 INFO Adding Player [158][test]
+2025-07-14_21:03:54 INFO LoginQueue::Process -- [Acc: test][IP: 192.168.0.187][MAC: 04:42:1A:48:70:20][SERIAL: 4174623308] Result: 1
+2025-07-14_21:24:51 INFO Removing Player [158][test] - Disconnected.
+2025-07-14_21:24:51 INFO Removing Player [158][test] - Server Closed.

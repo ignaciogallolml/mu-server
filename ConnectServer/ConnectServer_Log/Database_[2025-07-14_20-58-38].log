@@ -1,0 +1,19 @@
+2025-07-14_20:58:39 INFO Opening DatabasePool 'muonline'. Asynchronous connections: 1, synchronous connections: 2.
+2025-07-14_20:58:39 INFO MySQL client library: 8.0.33
+2025-07-14_20:58:39 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_20:58:39 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_20:58:39 INFO MySQL client library: 8.0.33
+2025-07-14_20:58:39 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_20:58:39 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_20:58:39 INFO MySQL client library: 8.0.33
+2025-07-14_20:58:39 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_20:58:39 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_20:58:39 INFO DatabasePool 'muonline' opened successfully. 3 total connections running.
+2025-07-14_21:03:39 INFO Main::KeepDatabaseAlive
+2025-07-14_21:08:39 INFO Main::KeepDatabaseAlive
+2025-07-14_21:13:39 INFO Main::KeepDatabaseAlive
+2025-07-14_21:18:39 INFO Main::KeepDatabaseAlive
+2025-07-14_21:23:39 INFO Main::KeepDatabaseAlive
+2025-07-14_21:24:58 INFO Closing down DatabasePool 'muonline'.
+2025-07-14_21:24:58 INFO Asynchronous connections on DatabasePool 'muonline' terminated. Proceeding with synchronous connections.
+2025-07-14_21:24:58 INFO All connections on DatabasePool 'muonline' closed.

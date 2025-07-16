@@ -1,0 +1,380 @@
+2025-07-15_00:20:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2025-07-15_00:20:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2025-07-15_00:20:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2025-07-15_00:20:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2025-07-15_00:20:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2025-07-15_00:20:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2025-07-15_00:20:00 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2025-07-15_00:20:00 INFO [DevilSquareMgr] SetState_Open()
+2025-07-15_00:21:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2025-07-15_00:21:01 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2025-07-15_00:21:01 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2025-07-15_00:21:01 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2025-07-15_00:21:01 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2025-07-15_00:21:01 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2025-07-15_00:21:01 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2025-07-15_00:21:01 INFO [DevilSquareMgr] SetState_Playing()
+2025-07-15_00:21:01 INFO [DevilSquare - 1] Moving Players Out
+2025-07-15_00:21:01 INFO [DevilSquare - 1] Clearing Monsters
+2025-07-15_00:21:01 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2025-07-15_00:21:01 INFO [DevilSquare - 2] Moving Players Out
+2025-07-15_00:21:01 INFO [DevilSquare - 2] Clearing Monsters
+2025-07-15_00:21:01 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2025-07-15_00:21:01 INFO [DevilSquare - 3] Moving Players Out
+2025-07-15_00:21:01 INFO [DevilSquare - 3] Clearing Monsters
+2025-07-15_00:21:01 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2025-07-15_00:21:01 INFO [DevilSquare - 4] Moving Players Out
+2025-07-15_00:21:01 INFO [DevilSquare - 4] Clearing Monsters
+2025-07-15_00:21:01 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2025-07-15_00:21:01 INFO [DevilSquare - 5] Moving Players Out
+2025-07-15_00:21:01 INFO [DevilSquare - 5] Clearing Monsters
+2025-07-15_00:21:01 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2025-07-15_00:21:01 INFO [DevilSquare - 6] Moving Players Out
+2025-07-15_00:21:01 INFO [DevilSquare - 6] Clearing Monsters
+2025-07-15_00:21:01 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2025-07-15_00:21:01 INFO [DevilSquare - 7] Moving Players Out
+2025-07-15_00:21:01 INFO [DevilSquare - 7] Clearing Monsters
+2025-07-15_00:21:01 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2025-07-15_00:21:01 INFO [DevilSquareMgr] SetState_None()
+2025-07-15_00:50:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2025-07-15_00:50:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2025-07-15_00:50:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2025-07-15_00:50:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2025-07-15_00:50:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2025-07-15_00:50:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2025-07-15_00:50:00 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2025-07-15_00:50:00 INFO [DevilSquareMgr] SetState_Open()
+2025-07-15_00:51:00 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2025-07-15_00:51:00 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2025-07-15_00:51:00 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2025-07-15_00:51:00 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2025-07-15_00:51:00 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2025-07-15_00:51:00 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2025-07-15_00:51:00 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2025-07-15_00:51:00 INFO [DevilSquareMgr] SetState_Playing()
+2025-07-15_00:51:00 INFO [DevilSquare - 1] Moving Players Out
+2025-07-15_00:51:00 INFO [DevilSquare - 1] Clearing Monsters
+2025-07-15_00:51:00 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2025-07-15_00:51:00 INFO [DevilSquare - 2] Moving Players Out
+2025-07-15_00:51:00 INFO [DevilSquare - 2] Clearing Monsters
+2025-07-15_00:51:00 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2025-07-15_00:51:00 INFO [DevilSquare - 3] Moving Players Out
+2025-07-15_00:51:00 INFO [DevilSquare - 3] Clearing Monsters
+2025-07-15_00:51:00 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2025-07-15_00:51:00 INFO [DevilSquare - 4] Moving Players Out
+2025-07-15_00:51:00 INFO [DevilSquare - 4] Clearing Monsters
+2025-07-15_00:51:00 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2025-07-15_00:51:00 INFO [DevilSquare - 5] Moving Players Out
+2025-07-15_00:51:00 INFO [DevilSquare - 5] Clearing Monsters
+2025-07-15_00:51:00 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2025-07-15_00:51:00 INFO [DevilSquare - 6] Moving Players Out
+2025-07-15_00:51:00 INFO [DevilSquare - 6] Clearing Monsters
+2025-07-15_00:51:00 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2025-07-15_00:51:00 INFO [DevilSquare - 7] Moving Players Out
+2025-07-15_00:51:00 INFO [DevilSquare - 7] Clearing Monsters
+2025-07-15_00:51:00 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2025-07-15_00:51:00 INFO [DevilSquareMgr] SetState_None()
+2025-07-15_01:20:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2025-07-15_01:20:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2025-07-15_01:20:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2025-07-15_01:20:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2025-07-15_01:20:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2025-07-15_01:20:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2025-07-15_01:20:00 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2025-07-15_01:20:00 INFO [DevilSquareMgr] SetState_Open()
+2025-07-15_01:21:00 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2025-07-15_01:21:00 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2025-07-15_01:21:00 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2025-07-15_01:21:00 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2025-07-15_01:21:00 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2025-07-15_01:21:00 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2025-07-15_01:21:00 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2025-07-15_01:21:00 INFO [DevilSquareMgr] SetState_Playing()
+2025-07-15_01:21:00 INFO [DevilSquare - 1] Moving Players Out
+2025-07-15_01:21:00 INFO [DevilSquare - 1] Clearing Monsters
+2025-07-15_01:21:00 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2025-07-15_01:21:00 INFO [DevilSquare - 2] Moving Players Out
+2025-07-15_01:21:00 INFO [DevilSquare - 2] Clearing Monsters
+2025-07-15_01:21:00 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2025-07-15_01:21:00 INFO [DevilSquare - 3] Moving Players Out
+2025-07-15_01:21:00 INFO [DevilSquare - 3] Clearing Monsters
+2025-07-15_01:21:00 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2025-07-15_01:21:00 INFO [DevilSquare - 4] Moving Players Out
+2025-07-15_01:21:00 INFO [DevilSquare - 4] Clearing Monsters
+2025-07-15_01:21:00 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2025-07-15_01:21:00 INFO [DevilSquare - 5] Moving Players Out
+2025-07-15_01:21:00 INFO [DevilSquare - 5] Clearing Monsters
+2025-07-15_01:21:00 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2025-07-15_01:21:00 INFO [DevilSquare - 6] Moving Players Out
+2025-07-15_01:21:00 INFO [DevilSquare - 6] Clearing Monsters
+2025-07-15_01:21:00 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2025-07-15_01:21:00 INFO [DevilSquare - 7] Moving Players Out
+2025-07-15_01:21:00 INFO [DevilSquare - 7] Clearing Monsters
+2025-07-15_01:21:00 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2025-07-15_01:21:00 INFO [DevilSquareMgr] SetState_None()
+2025-07-15_01:50:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2025-07-15_01:50:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2025-07-15_01:50:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2025-07-15_01:50:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2025-07-15_01:50:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2025-07-15_01:50:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2025-07-15_01:50:00 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2025-07-15_01:50:00 INFO [DevilSquareMgr] SetState_Open()
+2025-07-15_01:51:00 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2025-07-15_01:51:00 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2025-07-15_01:51:00 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2025-07-15_01:51:00 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2025-07-15_01:51:00 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2025-07-15_01:51:00 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2025-07-15_01:51:00 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2025-07-15_01:51:00 INFO [DevilSquareMgr] SetState_Playing()
+2025-07-15_01:51:00 INFO [DevilSquare - 1] Moving Players Out
+2025-07-15_01:51:00 INFO [DevilSquare - 1] Clearing Monsters
+2025-07-15_01:51:00 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2025-07-15_01:51:00 INFO [DevilSquare - 2] Moving Players Out
+2025-07-15_01:51:00 INFO [DevilSquare - 2] Clearing Monsters
+2025-07-15_01:51:00 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2025-07-15_01:51:00 INFO [DevilSquare - 3] Moving Players Out
+2025-07-15_01:51:00 INFO [DevilSquare - 3] Clearing Monsters
+2025-07-15_01:51:00 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2025-07-15_01:51:00 INFO [DevilSquare - 4] Moving Players Out
+2025-07-15_01:51:00 INFO [DevilSquare - 4] Clearing Monsters
+2025-07-15_01:51:00 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2025-07-15_01:51:00 INFO [DevilSquare - 5] Moving Players Out
+2025-07-15_01:51:00 INFO [DevilSquare - 5] Clearing Monsters
+2025-07-15_01:51:00 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2025-07-15_01:51:00 INFO [DevilSquare - 6] Moving Players Out
+2025-07-15_01:51:00 INFO [DevilSquare - 6] Clearing Monsters
+2025-07-15_01:51:00 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2025-07-15_01:51:00 INFO [DevilSquare - 7] Moving Players Out
+2025-07-15_01:51:00 INFO [DevilSquare - 7] Clearing Monsters
+2025-07-15_01:51:00 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2025-07-15_01:51:00 INFO [DevilSquareMgr] SetState_None()
+2025-07-15_02:20:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2025-07-15_02:20:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2025-07-15_02:20:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2025-07-15_02:20:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2025-07-15_02:20:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2025-07-15_02:20:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2025-07-15_02:20:00 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2025-07-15_02:20:00 INFO [DevilSquareMgr] SetState_Open()
+2025-07-15_02:21:00 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2025-07-15_02:21:00 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2025-07-15_02:21:00 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2025-07-15_02:21:00 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2025-07-15_02:21:00 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2025-07-15_02:21:00 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2025-07-15_02:21:00 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2025-07-15_02:21:00 INFO [DevilSquareMgr] SetState_Playing()
+2025-07-15_02:21:00 INFO [DevilSquare - 1] Moving Players Out
+2025-07-15_02:21:00 INFO [DevilSquare - 1] Clearing Monsters
+2025-07-15_02:21:00 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2025-07-15_02:21:00 INFO [DevilSquare - 2] Moving Players Out
+2025-07-15_02:21:00 INFO [DevilSquare - 2] Clearing Monsters
+2025-07-15_02:21:00 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2025-07-15_02:21:00 INFO [DevilSquare - 3] Moving Players Out
+2025-07-15_02:21:00 INFO [DevilSquare - 3] Clearing Monsters
+2025-07-15_02:21:00 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2025-07-15_02:21:00 INFO [DevilSquare - 4] Moving Players Out
+2025-07-15_02:21:00 INFO [DevilSquare - 4] Clearing Monsters
+2025-07-15_02:21:00 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2025-07-15_02:21:00 INFO [DevilSquare - 5] Moving Players Out
+2025-07-15_02:21:00 INFO [DevilSquare - 5] Clearing Monsters
+2025-07-15_02:21:00 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2025-07-15_02:21:00 INFO [DevilSquare - 6] Moving Players Out
+2025-07-15_02:21:00 INFO [DevilSquare - 6] Clearing Monsters
+2025-07-15_02:21:00 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2025-07-15_02:21:00 INFO [DevilSquare - 7] Moving Players Out
+2025-07-15_02:21:00 INFO [DevilSquare - 7] Clearing Monsters
+2025-07-15_02:21:00 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2025-07-15_02:21:01 INFO [DevilSquareMgr] SetState_None()
+2025-07-15_02:50:01 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2025-07-15_02:50:01 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2025-07-15_02:50:01 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2025-07-15_02:50:01 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2025-07-15_02:50:01 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2025-07-15_02:50:01 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2025-07-15_02:50:01 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2025-07-15_02:50:01 INFO [DevilSquareMgr] SetState_Open()
+2025-07-15_02:51:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2025-07-15_02:51:01 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2025-07-15_02:51:01 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2025-07-15_02:51:01 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2025-07-15_02:51:01 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2025-07-15_02:51:01 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2025-07-15_02:51:01 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2025-07-15_02:51:01 INFO [DevilSquareMgr] SetState_Playing()
+2025-07-15_02:51:01 INFO [DevilSquare - 1] Moving Players Out
+2025-07-15_02:51:01 INFO [DevilSquare - 1] Clearing Monsters
+2025-07-15_02:51:01 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2025-07-15_02:51:01 INFO [DevilSquare - 2] Moving Players Out
+2025-07-15_02:51:01 INFO [DevilSquare - 2] Clearing Monsters
+2025-07-15_02:51:01 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2025-07-15_02:51:01 INFO [DevilSquare - 3] Moving Players Out
+2025-07-15_02:51:01 INFO [DevilSquare - 3] Clearing Monsters
+2025-07-15_02:51:01 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2025-07-15_02:51:01 INFO [DevilSquare - 4] Moving Players Out
+2025-07-15_02:51:01 INFO [DevilSquare - 4] Clearing Monsters
+2025-07-15_02:51:01 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2025-07-15_02:51:01 INFO [DevilSquare - 5] Moving Players Out
+2025-07-15_02:51:01 INFO [DevilSquare - 5] Clearing Monsters
+2025-07-15_02:51:01 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2025-07-15_02:51:01 INFO [DevilSquare - 6] Moving Players Out
+2025-07-15_02:51:01 INFO [DevilSquare - 6] Clearing Monsters
+2025-07-15_02:51:01 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2025-07-15_02:51:01 INFO [DevilSquare - 7] Moving Players Out
+2025-07-15_02:51:01 INFO [DevilSquare - 7] Clearing Monsters
+2025-07-15_02:51:01 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2025-07-15_02:51:01 INFO [DevilSquareMgr] SetState_None()
+2025-07-15_03:20:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2025-07-15_03:20:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2025-07-15_03:20:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2025-07-15_03:20:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2025-07-15_03:20:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2025-07-15_03:20:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2025-07-15_03:20:00 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2025-07-15_03:20:00 INFO [DevilSquareMgr] SetState_Open()
+2025-07-15_03:21:00 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2025-07-15_03:21:00 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2025-07-15_03:21:00 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2025-07-15_03:21:00 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2025-07-15_03:21:00 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2025-07-15_03:21:00 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2025-07-15_03:21:00 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2025-07-15_03:21:00 INFO [DevilSquareMgr] SetState_Playing()
+2025-07-15_03:21:00 INFO [DevilSquare - 1] Moving Players Out
+2025-07-15_03:21:00 INFO [DevilSquare - 1] Clearing Monsters
+2025-07-15_03:21:00 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2025-07-15_03:21:00 INFO [DevilSquare - 2] Moving Players Out
+2025-07-15_03:21:00 INFO [DevilSquare - 2] Clearing Monsters
+2025-07-15_03:21:00 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2025-07-15_03:21:00 INFO [DevilSquare - 3] Moving Players Out
+2025-07-15_03:21:00 INFO [DevilSquare - 3] Clearing Monsters
+2025-07-15_03:21:00 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2025-07-15_03:21:00 INFO [DevilSquare - 4] Moving Players Out
+2025-07-15_03:21:00 INFO [DevilSquare - 4] Clearing Monsters
+2025-07-15_03:21:00 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2025-07-15_03:21:00 INFO [DevilSquare - 5] Moving Players Out
+2025-07-15_03:21:00 INFO [DevilSquare - 5] Clearing Monsters
+2025-07-15_03:21:00 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2025-07-15_03:21:00 INFO [DevilSquare - 6] Moving Players Out
+2025-07-15_03:21:00 INFO [DevilSquare - 6] Clearing Monsters
+2025-07-15_03:21:00 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2025-07-15_03:21:00 INFO [DevilSquare - 7] Moving Players Out
+2025-07-15_03:21:00 INFO [DevilSquare - 7] Clearing Monsters
+2025-07-15_03:21:00 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2025-07-15_03:21:00 INFO [DevilSquareMgr] SetState_None()
+2025-07-15_03:50:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2025-07-15_03:50:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2025-07-15_03:50:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2025-07-15_03:50:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2025-07-15_03:50:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2025-07-15_03:50:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2025-07-15_03:50:00 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2025-07-15_03:50:00 INFO [DevilSquareMgr] SetState_Open()
+2025-07-15_03:51:00 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2025-07-15_03:51:00 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2025-07-15_03:51:00 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2025-07-15_03:51:00 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2025-07-15_03:51:00 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2025-07-15_03:51:00 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2025-07-15_03:51:00 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2025-07-15_03:51:00 INFO [DevilSquareMgr] SetState_Playing()
+2025-07-15_03:51:00 INFO [DevilSquare - 1] Moving Players Out
+2025-07-15_03:51:00 INFO [DevilSquare - 1] Clearing Monsters
+2025-07-15_03:51:00 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2025-07-15_03:51:00 INFO [DevilSquare - 2] Moving Players Out
+2025-07-15_03:51:00 INFO [DevilSquare - 2] Clearing Monsters
+2025-07-15_03:51:00 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2025-07-15_03:51:00 INFO [DevilSquare - 3] Moving Players Out
+2025-07-15_03:51:00 INFO [DevilSquare - 3] Clearing Monsters
+2025-07-15_03:51:00 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2025-07-15_03:51:00 INFO [DevilSquare - 4] Moving Players Out
+2025-07-15_03:51:00 INFO [DevilSquare - 4] Clearing Monsters
+2025-07-15_03:51:00 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2025-07-15_03:51:00 INFO [DevilSquare - 5] Moving Players Out
+2025-07-15_03:51:00 INFO [DevilSquare - 5] Clearing Monsters
+2025-07-15_03:51:00 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2025-07-15_03:51:00 INFO [DevilSquare - 6] Moving Players Out
+2025-07-15_03:51:00 INFO [DevilSquare - 6] Clearing Monsters
+2025-07-15_03:51:00 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2025-07-15_03:51:00 INFO [DevilSquare - 7] Moving Players Out
+2025-07-15_03:51:00 INFO [DevilSquare - 7] Clearing Monsters
+2025-07-15_03:51:00 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2025-07-15_03:51:00 INFO [DevilSquareMgr] SetState_None()
+2025-07-15_05:20:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2025-07-15_05:20:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2025-07-15_05:20:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2025-07-15_05:20:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2025-07-15_05:20:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2025-07-15_05:20:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2025-07-15_05:20:00 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2025-07-15_05:20:00 INFO [DevilSquareMgr] SetState_Open()
+2025-07-15_05:21:00 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2025-07-15_05:21:00 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2025-07-15_05:21:00 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2025-07-15_05:21:00 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2025-07-15_05:21:00 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2025-07-15_05:21:00 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2025-07-15_05:21:00 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2025-07-15_05:21:00 INFO [DevilSquareMgr] SetState_Playing()
+2025-07-15_05:21:00 INFO [DevilSquare - 1] Moving Players Out
+2025-07-15_05:21:00 INFO [DevilSquare - 1] Clearing Monsters
+2025-07-15_05:21:00 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2025-07-15_05:21:00 INFO [DevilSquare - 2] Moving Players Out
+2025-07-15_05:21:00 INFO [DevilSquare - 2] Clearing Monsters
+2025-07-15_05:21:00 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2025-07-15_05:21:00 INFO [DevilSquare - 3] Moving Players Out
+2025-07-15_05:21:00 INFO [DevilSquare - 3] Clearing Monsters
+2025-07-15_05:21:00 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2025-07-15_05:21:00 INFO [DevilSquare - 4] Moving Players Out
+2025-07-15_05:21:00 INFO [DevilSquare - 4] Clearing Monsters
+2025-07-15_05:21:00 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2025-07-15_05:21:00 INFO [DevilSquare - 5] Moving Players Out
+2025-07-15_05:21:00 INFO [DevilSquare - 5] Clearing Monsters
+2025-07-15_05:21:00 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2025-07-15_05:21:00 INFO [DevilSquare - 6] Moving Players Out
+2025-07-15_05:21:00 INFO [DevilSquare - 6] Clearing Monsters
+2025-07-15_05:21:00 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2025-07-15_05:21:00 INFO [DevilSquare - 7] Moving Players Out
+2025-07-15_05:21:00 INFO [DevilSquare - 7] Clearing Monsters
+2025-07-15_05:21:00 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2025-07-15_05:21:00 INFO [DevilSquareMgr] SetState_None()
+2025-07-15_07:20:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2025-07-15_07:20:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2025-07-15_07:20:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2025-07-15_07:20:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2025-07-15_07:20:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2025-07-15_07:20:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2025-07-15_07:20:00 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2025-07-15_07:20:00 INFO [DevilSquareMgr] SetState_Open()
+2025-07-15_07:21:00 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2025-07-15_07:21:00 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2025-07-15_07:21:00 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2025-07-15_07:21:00 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2025-07-15_07:21:00 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2025-07-15_07:21:00 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2025-07-15_07:21:00 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2025-07-15_07:21:00 INFO [DevilSquareMgr] SetState_Playing()
+2025-07-15_07:21:00 INFO [DevilSquare - 1] Moving Players Out
+2025-07-15_07:21:01 INFO [DevilSquare - 1] Clearing Monsters
+2025-07-15_07:21:01 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2025-07-15_07:21:01 INFO [DevilSquare - 2] Moving Players Out
+2025-07-15_07:21:01 INFO [DevilSquare - 2] Clearing Monsters
+2025-07-15_07:21:01 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2025-07-15_07:21:01 INFO [DevilSquare - 3] Moving Players Out
+2025-07-15_07:21:01 INFO [DevilSquare - 3] Clearing Monsters
+2025-07-15_07:21:01 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2025-07-15_07:21:01 INFO [DevilSquare - 4] Moving Players Out
+2025-07-15_07:21:01 INFO [DevilSquare - 4] Clearing Monsters
+2025-07-15_07:21:01 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2025-07-15_07:21:01 INFO [DevilSquare - 5] Moving Players Out
+2025-07-15_07:21:01 INFO [DevilSquare - 5] Clearing Monsters
+2025-07-15_07:21:01 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2025-07-15_07:21:01 INFO [DevilSquare - 6] Moving Players Out
+2025-07-15_07:21:01 INFO [DevilSquare - 6] Clearing Monsters
+2025-07-15_07:21:01 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2025-07-15_07:21:01 INFO [DevilSquare - 7] Moving Players Out
+2025-07-15_07:21:01 INFO [DevilSquare - 7] Clearing Monsters
+2025-07-15_07:21:01 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2025-07-15_07:21:01 INFO [DevilSquareMgr] SetState_None()

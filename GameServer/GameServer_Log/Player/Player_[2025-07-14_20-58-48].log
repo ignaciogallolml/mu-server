@@ -1,0 +1,75 @@
+2025-07-14_20:59:46 INFO [ LOGIN REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - ] on [test]
+2025-07-14_20:59:47 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ]
+2025-07-14_20:59:53 INFO [ CHARACTER CREATE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Created character [KUNDUM] class 176
+2025-07-14_20:59:54 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character Otromago - 0 selected ( Step One ).
+2025-07-14_20:59:54 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character selected ( Step Two ).
+2025-07-14_20:59:54 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 203-Otromago] -- Location:[0 - 147/121]
+2025-07-14_20:59:59 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 203-Otromago] - Select Character
+2025-07-14_21:00:08 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 203-Otromago] Character KUNDUM - 7 selected ( Step One ).
+2025-07-14_21:00:08 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 203-Otromago] Character selected ( Step Two ).
+2025-07-14_21:00:08 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 204-KUNDUM] -- Location:[0 - 140/125]
+2025-07-14_21:02:44 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 204-KUNDUM] - Select Server
+2025-07-14_21:02:53 INFO [ LOGIN REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - ] on [test]
+2025-07-14_21:02:53 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ]
+2025-07-14_21:02:56 ERROR [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Wrong Secure Code.
+2025-07-14_21:02:56 INFO [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character KUNDUM.
+2025-07-14_21:02:57 ERROR [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Wrong Secure Code.
+2025-07-14_21:02:57 INFO [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character Otromago.
+2025-07-14_21:03:01 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character BKTest - 0 selected ( Step One ).
+2025-07-14_21:03:01 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character selected ( Step Two ).
+2025-07-14_21:03:01 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] -- Location:[51 - 23/221]
+2025-07-14_21:03:05 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] - Select Character
+2025-07-14_21:03:22 ERROR [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Wrong Secure Code.
+2025-07-14_21:03:22 INFO [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Character RAGEFIGHTE.
+2025-07-14_21:03:24 ERROR [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Wrong Secure Code.
+2025-07-14_21:03:24 INFO [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Character GLADIATOR.
+2025-07-14_21:03:27 ERROR [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Wrong Secure Code.
+2025-07-14_21:03:27 INFO [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Character DARKLORD.
+2025-07-14_21:03:29 ERROR [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Wrong Secure Code.
+2025-07-14_21:03:29 INFO [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Character SUMMONER.
+2025-07-14_21:03:32 ERROR [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Wrong Secure Code.
+2025-07-14_21:03:32 INFO [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Character GCTest.
+2025-07-14_21:03:36 INFO [ CHARACTER CREATE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Created character [ELMAGO] class 0
+2025-07-14_21:03:37 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Character BKTest - 0 selected ( Step One ).
+2025-07-14_21:03:37 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Character selected ( Step Two ).
+2025-07-14_21:03:37 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] -- Location:[51 - 23/221]
+2025-07-14_21:03:40 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] - Select Server
+2025-07-14_21:03:54 INFO [ LOGIN REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - ] on [test]
+2025-07-14_21:03:54 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ]
+2025-07-14_21:03:57 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character ELMAGO - 1 selected ( Step One ).
+2025-07-14_21:03:57 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - ] Character selected ( Step Two ).
+2025-07-14_21:03:57 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 205-ELMAGO] -- Location:[0 - 134/121]
+2025-07-14_21:04:26 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 205-ELMAGO] - Select Character
+2025-07-14_21:05:01 INFO [ CHARACTER CREATE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 205-ELMAGO] Created character [GLADIATOR] class 48
+2025-07-14_21:05:03 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 205-ELMAGO] Character GLADIATOR - 2 selected ( Step One ).
+2025-07-14_21:05:03 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 205-ELMAGO] Character selected ( Step Two ).
+2025-07-14_21:05:03 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 206-GLADIATOR] -- Location:[0 - 138/121]
+2025-07-14_21:05:50 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 206-GLADIATOR] - Select Character
+2025-07-14_21:06:03 INFO [ CHARACTER CREATE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 206-GLADIATOR] Created character [LORDZ] class 64
+2025-07-14_21:06:04 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 206-GLADIATOR] Character GLADIATOR - 0 selected ( Step One ).
+2025-07-14_21:06:04 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 206-GLADIATOR] Character selected ( Step Two ).
+2025-07-14_21:06:04 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 206-GLADIATOR] -- Location:[0 - 138/129]
+2025-07-14_21:06:05 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 206-GLADIATOR] - Select Character
+2025-07-14_21:06:13 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 206-GLADIATOR] Character LORDZ - 3 selected ( Step One ).
+2025-07-14_21:06:13 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 206-GLADIATOR] Character selected ( Step Two ).
+2025-07-14_21:06:13 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 207-LORDZ] -- Location:[0 - 136/124]
+2025-07-14_21:20:23 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 207-LORDZ] - Select Character
+2025-07-14_21:20:32 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 207-LORDZ] Character BKTest - 3 selected ( Step One ).
+2025-07-14_21:20:32 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 207-LORDZ] Character selected ( Step Two ).
+2025-07-14_21:20:32 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] -- Location:[51 - 23/221]
+2025-07-14_21:20:34 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] - Select Character
+2025-07-14_21:20:42 ERROR [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Wrong Secure Code.
+2025-07-14_21:20:42 INFO [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Character GLADIATOR.
+2025-07-14_21:20:45 ERROR [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Wrong Secure Code.
+2025-07-14_21:20:45 INFO [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Character LORDZ.
+2025-07-14_21:20:47 ERROR [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Wrong Secure Code.
+2025-07-14_21:20:47 INFO [ CHARACTER DELETE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Character ELMAGO.
+2025-07-14_21:20:52 INFO [ CHARACTER CREATE ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Created character [NEMESIS] class 0
+2025-07-14_21:20:54 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Character NEMESIS - 1 selected ( Step One ).
+2025-07-14_21:20:54 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] Character selected ( Step Two ).
+2025-07-14_21:20:54 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 208-NEMESIS] -- Location:[0 - 144/127]
+2025-07-14_21:22:11 INFO [ LOGOUT REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 208-NEMESIS] - Select Character
+2025-07-14_21:22:19 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 208-NEMESIS] Character BKTest - 1 selected ( Step One ).
+2025-07-14_21:22:19 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 208-NEMESIS] Character selected ( Step Two ).
+2025-07-14_21:22:19 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest] -- Location:[51 - 23/221]
+2025-07-14_21:22:32 INFO Teleport From [World:51 - 28/228 - Instance:-1] To [World:0 - 149/128 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.187 - MAC: 04:42:1A:48:70:20 - Account: 158-test - Character: 194-BKTest]

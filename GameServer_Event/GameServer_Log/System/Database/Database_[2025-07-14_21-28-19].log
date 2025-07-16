@@ -1,0 +1,48 @@
+2025-07-14_21:28:20 INFO Opening DatabasePool 'muonline'. Asynchronous connections: 1, synchronous connections: 2.
+2025-07-14_21:28:20 INFO MySQL client library: 8.0.33
+2025-07-14_21:28:20 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_21:28:20 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_21:28:20 INFO MySQL client library: 8.0.33
+2025-07-14_21:28:20 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_21:28:20 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_21:28:20 INFO MySQL client library: 8.0.33
+2025-07-14_21:28:20 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_21:28:20 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_21:28:20 INFO DatabasePool 'muonline' opened successfully. 3 total connections running.
+2025-07-14_21:28:20 INFO Opening DatabasePool 'log'. Asynchronous connections: 1, synchronous connections: 2.
+2025-07-14_21:28:20 INFO MySQL client library: 8.0.33
+2025-07-14_21:28:20 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_21:28:20 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_21:28:20 INFO MySQL client library: 8.0.33
+2025-07-14_21:28:20 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_21:28:20 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_21:28:20 INFO MySQL client library: 8.0.33
+2025-07-14_21:28:20 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_21:28:20 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_21:28:20 INFO DatabasePool 'log' opened successfully. 3 total connections running.
+2025-07-14_21:28:20 INFO Opening DatabasePool 'muonline'. Asynchronous connections: 1, synchronous connections: 2.
+2025-07-14_21:28:20 INFO MySQL client library: 8.0.33
+2025-07-14_21:28:20 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_21:28:20 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_21:28:20 INFO MySQL client library: 8.0.33
+2025-07-14_21:28:20 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_21:28:20 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_21:28:20 INFO MySQL client library: 8.0.33
+2025-07-14_21:28:20 INFO MySQL server ver: 11.8.2-MariaDB 
+2025-07-14_21:28:20 INFO Connected to MySQL database at 127.0.0.1
+2025-07-14_21:28:20 INFO DatabasePool 'muonline' opened successfully. 3 total connections running.
+2025-07-14_21:38:21 INFO Main::KeepDatabaseAlive
+2025-07-14_21:48:21 INFO Main::KeepDatabaseAlive
+2025-07-14_21:58:21 INFO Main::KeepDatabaseAlive
+2025-07-14_22:08:21 INFO Main::KeepDatabaseAlive
+2025-07-14_22:18:21 INFO Main::KeepDatabaseAlive
+2025-07-14_22:28:21 INFO Main::KeepDatabaseAlive
+2025-07-14_22:38:21 INFO Main::KeepDatabaseAlive
+2025-07-14_22:48:21 INFO Main::KeepDatabaseAlive
+2025-07-14_22:58:21 INFO Main::KeepDatabaseAlive
+2025-07-14_23:08:21 INFO Main::KeepDatabaseAlive
+2025-07-14_23:18:21 INFO Main::KeepDatabaseAlive
+2025-07-14_23:28:21 INFO Main::KeepDatabaseAlive
+2025-07-14_23:38:21 INFO Main::KeepDatabaseAlive
+2025-07-14_23:48:21 INFO Main::KeepDatabaseAlive
+2025-07-14_23:58:21 INFO Main::KeepDatabaseAlive
